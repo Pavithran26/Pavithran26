@@ -58,3 +58,7 @@
 <hr>
 <h2>Internships</h2>
 
+<hr>
+<h2>Certifications</h2>
+<img src="hplite.jpg">
+
