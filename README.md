@@ -14,7 +14,7 @@
 <a href="https://www.hackerrank.com/profile/pavithran2004cs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/pavithran2004cs" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/u/dawn26/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/dawn26/" height="30" width="40" /></a>
 
-<a href="https://www.geeksforgeeks.org/user/pavithraw7mx/" target="blank"><img align="center" src="https://www.google.com/search?q=geeksfoegeeks+icon+svg&oq=geeksfoegeeks+icon+svg+&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRiPAtIBBzYyMmowajeoAgGwAgE&client=ms-android-samsung-gs-rev1&sourceid=chrome-mobile&ie=UTF-8&sei=2xMXaPuqJ82Z4-EP6tjyuQ0" alt="https://www.geeksforgeeks.org/user/pavithraw7mx" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/pavithraw7mx/" target="blank"><img align="center" src="https://icons8.com/icon/AbQBhN9v62Ob/geeksforgeeks" alt="https://www.geeksforgeeks.org/user/pavithraw7mx" height="30" width="40" /></a>
 
 </p>
 <hr>
