@@ -46,3 +46,13 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavithran26&show_icons=true&locale=en" alt="pavithran26" /></p>
 
+<hr>
+<title>participants</title>
+
+━━━━━━ ✨ ━━━━━━  
+   🏅 KALAM 2025 HACKATHON CHAMPIONS  
+━━━━━━ ✨ ━━━━━━  
+   🥇 1st Place | SSIET (Autonomous)  
+   📍 Coimbatore | 21-22 March 2025  
+   🔗 #SSIET #GoldMedal #TechExcellence  
+
