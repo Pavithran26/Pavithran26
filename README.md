@@ -66,7 +66,7 @@
   <marquee behavior="scroll" direction="right" scrollamount="10">
     <img src="hplite.jpg" alt="Cert 1" style="margin: 0 20px; height: 80px;">
     <img src="GuviCertification - 22413z93rw6471Al86.png" alt="Cert 2" style="margin: 0 20px; height: 80px;">
-    <img src="https://drive.google.com/file/d/19uO6ixuMjnFXOd1Uw-99BxcmHvVhWS36/view?usp=drivesdk" alt="Cert 3" style="margin: 0 20px; height: 80px;">
+    <img src="https://drive.google.com/file/d/19uO6ixuMjnFXOd1Uw-99BxcmHvVhWS36" alt="google drive img not support" style="margin: 0 20px; height: 80px;">
     <img src="https://via.placeholder.com/150x80/000000/FFFFFF?text=Certification+4" alt="Cert 4" style="margin: 0 20px; height: 80px;">
     <img src="https://via.placeholder.com/150x80/000000/FFFFFF?text=Certification+5" alt="Cert 5" style="margin: 0 20px; height: 80px;">
   </marquee>
