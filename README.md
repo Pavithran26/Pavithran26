@@ -50,12 +50,10 @@ title<h1 align="center">Hi 👋, I'm Pavithran S</h1>
 <h2>winnings</h2>
 
 ━━━━━━ ✨ ━━━━━━  
-   🏅 KALAM 2025 HACKATHON CHAMPIONS  
-━━━━━━ ✨ ━━━━━━  
+   🏅 KALAM 2025 HACKATHON CHAMPIONS    
    🥇 1st Place | Sri Shakthi Institute of Engineering & Technology (Autonomous)  
    📍 Coimbatore | 21-22 March 2025  
-   🔗 #SSIET #GoldMedal #TechExcellence  
-
+━━━━━━ ✨ ━━━━━━
 
 <hr>
 <h2>Internships</h2>
