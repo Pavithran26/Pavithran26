@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="styles.css">
+<script src="script.js"></script>
 <h1 align="center">Hi 👋, I'm Pavithran S</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
@@ -80,5 +81,5 @@
         </div>
     </div>
 
-    <script src="script.js"></script>
+ 
 
