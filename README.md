@@ -47,7 +47,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavithran26&show_icons=true&locale=en" alt="pavithran26" /></p>
 
 <hr>
-<h2>participants</h2>
+<h2>winnings</h2>
 
 ━━━━━━ ✨ ━━━━━━  
    🏅 KALAM 2025 HACKATHON CHAMPIONS  
