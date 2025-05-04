@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="styles.css">
 <h1 align="center">Hi 👋, I'm Pavithran S</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
@@ -60,5 +61,24 @@
 
 <hr>
 <h2>Certifications</h2>
-<img src="hplite.jpg">
+<div class="gallery-container">
+        <div class="gallery">
+            <img src="hplite.jpg" alt="Image 1">
+            <img src="https://via.placeholder.com/800x400/00ff00/ffffff?text=Image+2" alt="Image 2">
+            <img src="https://via.placeholder.com/800x400/0000ff/ffffff?text=Image+3" alt="Image 3">
+            <img src="https://via.placeholder.com/800x400/ffff00/000000?text=Image+4" alt="Image 4">
+        </div>
+        
+        <button class="nav-button prev">&#10094;</button>
+        <button class="nav-button next">&#10095;</button>
+        
+        <div class="dots-container">
+            <span class="dot active"></span>
+            <span class="dot"></span>
+            <span class="dot"></span>
+            <span class="dot"></span>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
 
