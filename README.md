@@ -52,7 +52,7 @@
 ━━━━━━ ✨ ━━━━━━  
    🏅 KALAM 2025 HACKATHON CHAMPIONS  
 ━━━━━━ ✨ ━━━━━━  
-   🥇 1st Place | SSIET (Autonomous)  
+   🥇 1st Place | Sri Shakthi Institute of Engineering & Technology (Autonomous)  
    📍 Coimbatore | 21-22 March 2025  
    🔗 #SSIET #GoldMedal #TechExcellence  
 
