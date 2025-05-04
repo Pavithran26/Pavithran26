@@ -65,7 +65,7 @@
  <div style="width: 100%; overflow: hidden;">
   <marquee behavior="scroll" direction="right" scrollamount="10">
     <img src="hplite.jpg" alt="Cert 1" style="margin: 0 20px; height: 80px;">
-    <img src="https://via.placeholder.com/150x80/000000/FFFFFF?text=Certification+2" alt="Cert 2" style="margin: 0 20px; height: 80px;">
+    <img src="GuviCertification - 22413z93rw6471Al86.png" alt="Cert 2" style="margin: 0 20px; height: 80px;">
     <img src="https://via.placeholder.com/150x80/000000/FFFFFF?text=Certification+3" alt="Cert 3" style="margin: 0 20px; height: 80px;">
     <img src="https://via.placeholder.com/150x80/000000/FFFFFF?text=Certification+4" alt="Cert 4" style="margin: 0 20px; height: 80px;">
     <img src="https://via.placeholder.com/150x80/000000/FFFFFF?text=Certification+5" alt="Cert 5" style="margin: 0 20px; height: 80px;">
