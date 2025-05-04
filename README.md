@@ -1,5 +1,4 @@
-<link rel="stylesheet" href="styles.css">
-<script src="script.js"></script>
+
 <h1 align="center">Hi 👋, I'm Pavithran S</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
@@ -62,24 +61,18 @@
 
 <hr>
 <h2>Certifications</h2>
-<div class="gallery-container">
-        <div class="gallery">
-            <img src="hplite.jpg" alt="Image 1">
-            <img src="https://via.placeholder.com/800x400/00ff00/ffffff?text=Image+2" alt="Image 2">
-            <img src="https://via.placeholder.com/800x400/0000ff/ffffff?text=Image+3" alt="Image 3">
-            <img src="https://via.placeholder.com/800x400/ffff00/000000?text=Image+4" alt="Image 4">
-        </div>
-        
-        <button class="nav-button prev">&#10094;</button>
-        <button class="nav-button next">&#10095;</button>
-        
-        <div class="dots-container">
-            <span class="dot active"></span>
-            <span class="dot"></span>
-            <span class="dot"></span>
-            <span class="dot"></span>
-        </div>
-    </div>
 
- 
+ <div style="width: 100%; overflow: hidden;">
+  <marquee behavior="scroll" direction="right" scrollamount="10">
+    <img src="hplite.jpg" alt="Cert 1" style="margin: 0 20px; height: 80px;">
+    <img src="https://via.placeholder.com/150x80/000000/FFFFFF?text=Certification+2" alt="Cert 2" style="margin: 0 20px; height: 80px;">
+    <img src="https://via.placeholder.com/150x80/000000/FFFFFF?text=Certification+3" alt="Cert 3" style="margin: 0 20px; height: 80px;">
+    <img src="https://via.placeholder.com/150x80/000000/FFFFFF?text=Certification+4" alt="Cert 4" style="margin: 0 20px; height: 80px;">
+    <img src="https://via.placeholder.com/150x80/000000/FFFFFF?text=Certification+5" alt="Cert 5" style="margin: 0 20px; height: 80px;">
+  </marquee>
+</div>
 
+<!-- Replace the placeholder images with your actual certification badges -->
+<!-- Example of real certification image:
+<img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified" style="margin: 0 20px; height: 80px;">
+-->
