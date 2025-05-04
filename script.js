@@ -1,3 +1,6 @@
+// Change auto-rotation speed (in milliseconds)
+let interval = setInterval(nextImage, 3000); // 3 seconds
+
 document.addEventListener('DOMContentLoaded', function() {
     const gallery = document.querySelector('.gallery');
     const images = document.querySelectorAll('.gallery img');
