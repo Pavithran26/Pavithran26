@@ -58,6 +58,13 @@
 
 <hr>
 <h2>Internships</h2>
+Java Internship Training | Internship Studio  
+📅 Completed: 30th November, 2024 
+🔖 Certificate No.: ISJVAT1092020 | ISO 9001:2015 Certified
+
+Successfully completed intensive training in <b>Java programming</b> under mentor <b>Supriya Dongre</b>.  
+<img src="Internjava.jpg" alt="Cert 1" style="margin: 0 20px; height: 80px;">
+
 
 <hr>
 <h2>Certifications</h2>
