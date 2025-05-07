@@ -73,9 +73,11 @@ Successfully completed intensive training in <b>Java programming</b> under mento
   <marquee behavior="scroll" direction="right" scrollamount="10">
     <img src="hplite.jpg" alt="Cert 1" style="margin: 0 20px; height: 80px;">
     <img src="GuviCertification - 22413z93rw6471Al86.png" alt="Cert 2" style="margin: 0 20px; height: 80px;">
-    <img src="https://drive.google.com/file/d/1-hiu2g6EyPnyfI2EKJBlxHXGVYnoC2ZL/view?usp=drivesdk" alt="cert 4" style="margin: 0 20px; height: 80px;">
-    <img src="https://drive.google.com/file/d/1kOMNo8iZh9Gjx1B7mp6CJ5E3-tke0gre/view?usp=drivesdk" alt="cert 4" style="margin: 0 20px; height: 80px;">
-    <img src="https://via.placeholder.com/150x80/000000/FFFFFF?text=Certification+5" alt="Cert 5" style="margin: 0 20px; height: 80px;">
+    <img src="pavithran.png" alt="cert 4" style="margin: 0 20px; height: 80px;">
+    <img src="IMG-20250107-WA0000.jpg" alt="cert 4" style="margin: 0 20px; height: 80px;">
+    <img src="IMG-20250107-WA0001.jpg" alt="Cert 5" style="margin: 0 20px; height: 80px;">
+
+<img src="IMG-20250107-WA0002.jpg" alt="Cert 5" style="margin: 0 20px; height: 80px;"><img src="IMG-20250107-WA0003.jpg" alt="Cert 5" style="margin: 0 20px; height: 80px;"><img src="IMG-20250107-WA0004.jpg" alt="Cert 5" style="margin: 0 20px; height: 80px;"><img src="IMG-20250107-WA0005.jpg" alt="Cert 5" style="margin: 0 20px; height: 80px;"><img src="IMG-20250107-WA0006.jpg" alt="Cert 5" style="margin: 0 20px; height: 80px;"><img src="IMG-20250107-WA0007.jpg" alt="Cert 5" style="margin: 0 20px; height: 80px;"><img src="IMG-20250107-WA0008.jpg" alt="Cert 5" style="margin: 0 20px; height: 80px;"><img src="IMG-20250107-WA0009.jpg" alt="Cert 5" style="margin: 0 20px; height: 80px;"><img src="IMG-20250107-WA00010.jpg" alt="Cert 5" style="margin: 0 20px; height: 80px;"><img src="IMG-20250107-WA00011.jpg" alt="Cert 5" style="margin: 0 20px; height: 80px;"><img src="IMG-20250107-WA00012.jpg" alt="Cert 5" style="margin: 0 20px; height: 80px;"><img src="IMG-20250107-WA00013.jpg" alt="Cert 5" style="margin: 0 20px; height: 80px;"><img src="IMG-20250107-WA00014.jpg" alt="Cert 5" style="margin: 0 20px; height: 80px;"><img src="IMG-20250107-WA00015.jpg" alt="Cert 5" style="margin: 0 20px; height: 80px;">
   </marquee>
 </div>
 
