@@ -65,6 +65,10 @@ Java Internship Training | Internship Studio
 Successfully completed intensive training in <b>Java programming</b> under mentor <b>Supriya Dongre</b>.  
 <img src="Internjava.jpg" alt="Cert 1" style="margin: 0 20px; height: 80px;">
 
+<hr>
+<h2>Projects</h2>
+<p>seee some live demo of my projects</p>
+https://cms-portfolio-lime.vercel.app/
 
 <hr>
 <h2>Certifications</h2>
