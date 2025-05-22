@@ -64,7 +64,13 @@ Java Internship Training | Internship Studio
 
 Successfully completed intensive training in <b>Java programming</b> under mentor <b>Supriya Dongre</b>.  
 <img src="Internjava.jpg" alt="Cert 1" style="margin: 0 20px; height: 80px;">
-
+<hr>
+## 🚀 Experience  
+### **Software Development Intern** @ Cognifyz Technologies  
+*Apr 2025 - May 2025*  
+- Developed and optimized software solutions using [Tech Stack].  
+- Recognized for dedication, teamwork, and problem-solving skills.  
+- [Certificate](#) | [Company Website](https://www.cognifyz.com)  
 <hr>
 <h2>Projects</h2>
 <p>seee some live demo of my projects</p>
