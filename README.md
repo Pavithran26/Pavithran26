@@ -74,7 +74,7 @@ Apr 2025 - May 2025
 <hr>
 <h2>Portfolio</h2>
 <p>Do you wanna know more about me</p>
-https://pavi-git-pavi-pavithran26s-projects.vercel.app/
+https://pavis.vercel.app/
 
 <hr>
 <h2>Certifications</h2>
