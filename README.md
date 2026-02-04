@@ -6,7 +6,7 @@
 
 <hr>
 
-- 📫 How to reach me **pavithran2004cs@gmail.com**
+- 📫 How to reach me **pavithran2004s@gmail.com**
 <hr>
 
 <h3 align="left">Connect with me:</h3>
