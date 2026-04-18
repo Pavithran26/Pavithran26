@@ -16,6 +16,7 @@
   <a href="https://linkedin.com/in/pavithran-s-ab85a9235" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+  <br>
   <a href="https://www.hackerrank.com/profile/pavithran2004cs" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
@@ -32,7 +33,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40" />
   </a>
 </p>
-
+https://leetcode.com/problem-list/whfk0z3g/
 <hr>
 
 ## 💻 Tech Stack
