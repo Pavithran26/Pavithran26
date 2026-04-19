@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pavithran S</h1>
-<h3 align="center">A passionate Software Developer & Data Analyst</h3>
+<h3 align="center">
+  🚀 Full Stack Developer | Next.js • Django • PostgreSQL <br/>
+  🤖 AI/ML & Data Analytics | 📱 Flutter Developer
+</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=pavithran26&label=Profile%20views&color=0e75b6&style=flat" alt="pavithran26" />
