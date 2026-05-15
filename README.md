@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pavithran S</h1>
 <h3 align="center">
-  🚀 Full Stack Developer | Next.js • Django • PostgreSQL <br/>
+  🚀 Software Engineer| Next.js • Django • PostgreSQL <br/>
   🤖 AI/ML & Data Analytics | 📱 Flutter Developer
 </h3>
 
