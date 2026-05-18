@@ -33,7 +33,7 @@
 <a href="https://youtube.com/@be_a_techiegamer">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
-<a href="https://www.codechef.com/users/dawn26">
+<a href="https://www.codechef.com/users/pavithran26">
   <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
 <a href="https://auth.geeksforgeeks.org/user/pavithraw7mx">
