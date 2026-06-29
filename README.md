@@ -103,7 +103,6 @@
   <img src="https://raw.githubusercontent.com/pavithran26/pavithran26/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
 </p>
 
-> 💡 **Setup:** Add the [3D Contribution Action](https://github.com/yoshi389111/github-profile-3d-contrib) to your repo to enable this live 3D graph.
 
 <!-- ANIMATED SEPARATOR -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
