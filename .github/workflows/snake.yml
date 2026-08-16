@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *"   # runs at midnight UTC every day
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -15,9 +18,10 @@ jobs:
         id: snake-gif
         with:
           github_user_name: pavithran26
+          # Palette matched to the profile's violet/glass theme (%23 = URL-encoded #)
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+            dist/github-snake.svg?color_snake=%237C6FCD&color_dots=%23EDEDF5,%23C9C2EE,%23A78BFA,%237C6FCD,%235B4FA8
+            dist/github-snake-dark.svg?color_snake=%23A78BFA&color_dots=%230D0D1A,%232A2545,%234A3F7A,%237C6FCD,%23A78BFA
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
