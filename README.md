@@ -1,14 +1,14 @@
-<!-- Pavithran S. | Product-first README v6 -->
+<!-- Pavithran S. | Product-first README v7 • graphite / emerald / crimson -->
 <div align="center">
 
-<img src="./assets/profile-header-v6.svg" width="100%" alt="Pavithran S. — Forward Deployed Engineer. From Interface to Intelligence." />
+<img src="./assets/profile-header-v7.svg" width="100%" alt="Pavithran S. — Forward Deployed Engineer. From Interface to Intelligence." />
 
 <br /><br />
 
-<a href="https://pavithran26.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-155D76?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" /></a>
+<a href="https://pavithran26.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-19A66B?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/pavithran26s/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
-<a href="https://github.com/Pavithran26"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Projects-182A3A?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
-<a href="mailto:pavithran2004s@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Say_Hello-C24C43?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+<a href="https://github.com/Pavithran26"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Projects-222C29?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
+<a href="mailto:pavithran2004s@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Say_Hello-D44B5A?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
 
 </div>
 
@@ -48,60 +48,60 @@ Distinct projects, with their own icons and direct links to the relevant applica
 
 <table>
 <tr>
-<td width="92" align="center" valign="middle"><a href="https://clansure.vercel.app/"><img src="./assets/icons/clansure-v6.svg" width="70" alt="ClanSure app icon" /></a></td>
+<td width="92" align="center" valign="middle"><a href="https://clansure.vercel.app/"><img src="./assets/icons/clansure-v7.svg" width="70" alt="ClanSure app icon" /></a></td>
 <td valign="top">
 <h3><a href="https://clansure.vercel.app/">ClanSure</a></h3>
 <p>Family insurance management with policy and document intelligence.</p>
 <p><strong>Stack:</strong> React · ASP.NET Core 8 · FastAPI/RAG · PostgreSQL · object storage.</p>
 <p>
-<a href="https://clansure.vercel.app/"><img alt="ClanSure Live App" src="https://img.shields.io/badge/Live-App-155D76?style=flat-square&amp;logo=vercel&amp;logoColor=white" /></a>
-<a href="https://github.com/Pavithran26/CLANSURE"><img alt="ClanSure GitHub Source" src="https://img.shields.io/badge/GitHub-Source-182A3A?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
-<a href="https://clansure-api.onrender.com/"><img alt="ASP.NET Backend API" src="https://img.shields.io/badge/Backend-API-325684?style=flat-square&amp;logo=dotnet&amp;logoColor=white" /></a>
-<a href="https://clansure-rag.onrender.com/"><img alt="Python RAG API" src="https://img.shields.io/badge/RAG-Service-486978?style=flat-square&amp;logo=python&amp;logoColor=white" /></a>
+<a href="https://clansure.vercel.app/"><img alt="ClanSure Live App" src="https://img.shields.io/badge/Live-App-19A66B?style=flat-square&amp;logo=vercel&amp;logoColor=white" /></a>
+<a href="https://github.com/Pavithran26/CLANSURE"><img alt="ClanSure GitHub Source" src="https://img.shields.io/badge/GitHub-Source-222C29?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
+<a href="https://clansure-api.onrender.com/"><img alt="ASP.NET Backend API" src="https://img.shields.io/badge/Backend-API-C74859?style=flat-square&amp;logo=dotnet&amp;logoColor=white" /></a>
+<a href="https://clansure-rag.onrender.com/"><img alt="Python RAG API" src="https://img.shields.io/badge/RAG-Service-198D61?style=flat-square&amp;logo=python&amp;logoColor=white" /></a>
 </p>
 </td>
 </tr>
 <tr>
-<td width="92" align="center" valign="middle"><a href="https://gt-companion.vercel.app/"><img src="./assets/icons/gt-companion-v6.svg" width="70" alt="GT Companion app icon" /></a></td>
+<td width="92" align="center" valign="middle"><a href="https://gt-companion.vercel.app/"><img src="./assets/icons/gt-companion-v7.svg" width="70" alt="GT Companion app icon" /></a></td>
 <td valign="top">
 <h3><a href="https://gt-companion.vercel.app/">GT Companion</a></h3>
 <p>Companion portal bringing frontend, backend and AI retrieval together.</p>
 <p><strong>Stack:</strong> React · .NET/C# · Python FastAPI · RAG microservice.</p>
 <p>
-<a href="https://gt-companion.vercel.app/"><img alt="GT Companion Live App" src="https://img.shields.io/badge/Live-App-155D76?style=flat-square&amp;logo=vercel&amp;logoColor=white" /></a>
-<a href="https://github.com/Pavithran26/GT-Companion"><img alt="GT Companion GitHub Source" src="https://img.shields.io/badge/GitHub-Source-182A3A?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
+<a href="https://gt-companion.vercel.app/"><img alt="GT Companion Live App" src="https://img.shields.io/badge/Live-App-19A66B?style=flat-square&amp;logo=vercel&amp;logoColor=white" /></a>
+<a href="https://github.com/Pavithran26/GT-Companion"><img alt="GT Companion GitHub Source" src="https://img.shields.io/badge/GitHub-Source-222C29?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
 </p>
 </td>
 </tr>
 <tr>
-<td width="92" align="center" valign="middle"><a href="https://github.com/Pavithran26/TN-Sattam/tree/TN_Sattam-Astra"><img src="./assets/icons/sattam-ai-v6.svg" width="70" alt="Sattam AI app icon" /></a></td>
+<td width="92" align="center" valign="middle"><a href="https://github.com/Pavithran26/TN-Sattam/tree/TN_Sattam-Astra"><img src="./assets/icons/sattam-ai-v7.svg" width="70" alt="Sattam AI app icon" /></a></td>
 <td valign="top">
 <h3><a href="https://github.com/Pavithran26/TN-Sattam/tree/TN_Sattam-Astra">Sattam AI</a></h3>
 <p>Multilingual Tamil Nadu legal information assistant grounded in source documents.</p>
 <p><strong>Active branch:</strong> React/Vite · Capacitor · FastAPI · Firebase Authentication · Firestore vector retrieval.</p>
 <p>
-<a href="https://github.com/Pavithran26/TN-Sattam/tree/TN_Sattam-Astra"><img alt="Active Sattam AI Branch" src="https://img.shields.io/badge/Active-Branch-655080?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
-<a href="https://github.com/Pavithran26/TN-Sattam"><img alt="Sattam AI Repository" src="https://img.shields.io/badge/GitHub-Repository-182A3A?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
+<a href="https://github.com/Pavithran26/TN-Sattam/tree/TN_Sattam-Astra"><img alt="Active Sattam AI Branch" src="https://img.shields.io/badge/Active-Branch-C74859?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
+<a href="https://github.com/Pavithran26/TN-Sattam"><img alt="Sattam AI Repository" src="https://img.shields.io/badge/GitHub-Repository-222C29?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
 </p>
 </td>
 </tr>
 <tr>
-<td width="92" align="center" valign="middle"><a href="https://ranjiths.vercel.app/"><img src="./assets/icons/srk-erp-v6.svg" width="70" alt="SRK Coconut ERP app icon" /></a></td>
+<td width="92" align="center" valign="middle"><a href="https://ranjiths.vercel.app/"><img src="./assets/icons/srk-erp-v7.svg" width="70" alt="SRK Coconut ERP app icon" /></a></td>
 <td valign="top">
 <h3><a href="https://ranjiths.vercel.app/">SRK Coconut ERP</a></h3>
 <p>Business operations application for day-to-day coconut workflows.</p>
 <p><strong>Focus:</strong> Business workflows · operational UI · application development.</p>
-<p><a href="https://ranjiths.vercel.app/"><img alt="SRK Coconut ERP Live App" src="https://img.shields.io/badge/Live-App-155D76?style=flat-square&amp;logo=vercel&amp;logoColor=white" /></a></p>
+<p><a href="https://ranjiths.vercel.app/"><img alt="SRK Coconut ERP Live App" src="https://img.shields.io/badge/Live-App-19A66B?style=flat-square&amp;logo=vercel&amp;logoColor=white" /></a></p>
 </td>
 </tr>
 <tr>
-<td width="92" align="center" valign="middle"><a href="https://prismiq26.vercel.app/"><img src="./assets/icons/prismiq-v6.svg" width="70" alt="PrismIQ app icon" /></a></td>
+<td width="92" align="center" valign="middle"><a href="https://prismiq26.vercel.app/"><img src="./assets/icons/prismiq-v7.svg" width="70" alt="PrismIQ app icon" /></a></td>
 <td valign="top">
 <h3><a href="https://prismiq26.vercel.app/">PrismIQ — Innovation Showcase</a></h3>
 <p>Creative 3D and motion-focused innovation showcase.</p>
 <p>
-<a href="https://prismiq26.vercel.app/"><img alt="PrismIQ Live Showcase" src="https://img.shields.io/badge/Live-Showcase-155D76?style=flat-square&amp;logo=vercel&amp;logoColor=white" /></a>
-<a href="https://github.com/Pavithran26/PrismIQ-Portfolio"><img alt="PrismIQ GitHub Source" src="https://img.shields.io/badge/GitHub-Source-182A3A?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
+<a href="https://prismiq26.vercel.app/"><img alt="PrismIQ Live Showcase" src="https://img.shields.io/badge/Live-Showcase-19A66B?style=flat-square&amp;logo=vercel&amp;logoColor=white" /></a>
+<a href="https://github.com/Pavithran26/PrismIQ-Portfolio"><img alt="PrismIQ GitHub Source" src="https://img.shields.io/badge/GitHub-Source-222C29?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
 </p>
 </td>
 </tr>
@@ -171,8 +171,8 @@ Distinct projects, with their own icons and direct links to the relevant applica
 
 **From Interface to Intelligence.**
 
-<a href="https://pavithran26.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-155D76?style=flat-square&amp;logo=vercel&amp;logoColor=white" /></a>
+<a href="https://pavithran26.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-19A66B?style=flat-square&amp;logo=vercel&amp;logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/pavithran26s/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" /></a>
-<a href="mailto:pavithran2004s@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-C24C43?style=flat-square&amp;logo=gmail&amp;logoColor=white" /></a>
+<a href="mailto:pavithran2004s@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-D44B5A?style=flat-square&amp;logo=gmail&amp;logoColor=white" /></a>
 
 </div>
