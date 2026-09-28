@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 350" width="1180" height="350" role="img" aria-labelledby="t d">
+<title id="t">CLANSURE — editorial project artwork</title>
+<desc id="d">Conceptual engineering visualization of FAMILY  /  POLICIES  /  AI. Select the card to open the live application or project branch.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0A263A"/><stop offset=".64" stop-color="#0E2840"/><stop offset="1" stop-color="#123956"/></linearGradient>
+<linearGradient id="shade" x2="1"><stop stop-color="#09192B"/><stop offset=".62" stop-color="#0B2033" stop-opacity=".76"/><stop offset="1" stop-color="#0B2033" stop-opacity="0"/></linearGradient>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#74DAEA" stroke-opacity=".10"/></pattern>
+</defs>
+<rect width="1180" height="350" rx="19" fill="url(#bg)"/>
+<rect width="1180" height="350" rx="19" fill="url(#grid)"/>
+<rect x="0" y="0" width="8" height="350" rx="4" fill="#74DAEA"/>
+<circle cx="981" cy="178" r="190" fill="#74DAEA" opacity=".035"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<rect x="736" y="42" width="400" height="265" rx="16" fill="#102D42" stroke="#70D9E7" stroke-opacity=".7"/>
+<rect x="754" y="61" width="365" height="34" rx="5" fill="#214A62"/>
+<circle cx="774" cy="78" r="5" fill="#79E2D1"/><text x="794" y="84" fill="#E3F7FC" font-size="16" font-weight="700">FAMILY PROTECTION</text>
+<rect x="757" y="117" width="142" height="169" rx="9" fill="#1B4054" stroke="#5A9AB2"/>
+<path d="M778 144H878M778 155H863M778 180H879M778 191H866M778 216H882" stroke="#87BDCD" stroke-width="3" stroke-linecap="round" stroke-opacity=".75"/>
+<text x="777" y="255" fill="#70D9E7" font-size="12" font-weight="700">POLICY DOCUMENT</text>
+<line x1="777" y1="132" x2="882" y2="132" stroke="#71E7E8" stroke-width="2">
+<animate attributeName="y1" values="128;238;128" dur="6s" repeatCount="indefinite"/>
+<animate attributeName="y2" values="128;238;128" dur="6s" repeatCount="indefinite"/></line>
+<path d="M918 163H938" stroke="#70D9E7" stroke-width="2.5"/><path d="M933 159L940 163L933 167" fill="none" stroke="#70D9E7" stroke-width="2.5"/>
+<rect x="947" y="115" width="170" height="58" rx="8" fill="#25546B" stroke="#78D8E7" stroke-opacity=".65"/>
+<text x="962" y="139" font-size="12" fill="#9ADBE7">DOCUMENT INTELLIGENCE</text><text x="962" y="158" font-size="16" fill="#FFF4CB" font-weight="700">EXTRACT</text>
+<rect x="947" y="189" width="170" height="96" rx="8" fill="#25546B" stroke="#78D8E7" stroke-opacity=".65"/>
+<text x="962" y="214" font-size="13" fill="#9ADBE7">COVERAGE VIEW</text>
+<path d="M963 231H1099M963 245H1070M963 259H1089" stroke="#BEE7EC" stroke-opacity=".7" stroke-width="4" stroke-linecap="round"/>
+</g>
+<rect x="0" y="0" width="744" height="350" fill="url(#shade)"/>
+<text x="48" y="60" fill="#74DAEA" font-family="Arial,Helvetica,sans-serif" font-size="21" letter-spacing="3.2" font-weight="700">01  /  INSURTECH</text>
+<path d="M48 78H630" stroke="#74DAEA" stroke-opacity=".44"/>
+<text x="44" y="178" fill="#F7FAFF" font-family="Arial,Helvetica,sans-serif" font-size="96" font-weight="900" letter-spacing="-2.7">CLANSURE</text>
+
+<text x="50" y="229" fill="#74DAEA" font-family="Arial,Helvetica,sans-serif" font-size="29" font-weight="700">Protect what matters.</text>
+<text x="50" y="316" fill="#B9D4E2" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing="2.1">FAMILY  /  POLICIES  /  AI</text>
+<path d="M1040 25H1144" stroke="#74DAEA" stroke-width="2" stroke-dasharray="16 88">
+<animate attributeName="stroke-dashoffset" values="0;-104" dur="5s" repeatCount="indefinite"/></path>
+</svg>
