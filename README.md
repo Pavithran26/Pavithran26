@@ -12,6 +12,8 @@
 
 *I like the space between a good idea and a product people can actually use.*
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=550&amp;size=19&amp;duration=3300&amp;pause=1100&amp;color=137DA5&amp;center=true&amp;vCenter=true&amp;width=760&amp;height=42&amp;lines=Building+useful+products;Connecting+UI+%2B+APIs+%2B+AI;Dream.+Code.+Build.+Ride.+Repeat." alt="Animated introduction: Building useful products; Connecting UI, APIs and AI; Dream. Code. Build. Ride. Repeat." width="85%" />
+
 <a href="https://pavithran26.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-FFCA66?style=for-the-badge&labelColor=10476B&logo=vercel&logoColor=white" alt="Explore Portfolio" /></a>
 <a href="https://www.linkedin.com/in/pavithran26s/"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-137DA5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
 <a href="mailto:pavithran2004s@gmail.com"><img src="https://img.shields.io/badge/SAY_HELLO-172A40?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Pavithran" /></a>
@@ -24,10 +26,11 @@
 
 My work connects **interfaces, backend services, AI retrieval workflows and cloud infrastructure**. I enjoy understanding the actual problem, choosing an architecture that fits, and getting the result into a usable product.
 
-`01  EXPLORE` → understand the workflow & user need  
-`02  ENGINEER` → build the interface, APIs & data flow  
-`03  INTELLIGENCE` → integrate AI where it genuinely helps  
-`04  DELIVER` → deploy, test, learn & improve
+<div align="center">
+  <img src="./assets/engineering-loop.svg" alt="Explore → Engineer → Intelligence → Deliver: four stages connected by a moving light signal" width="100%" />
+</div>
+
+**Explore:** understand the problem · **Engineer:** create the system · **Intelligence:** use AI where helpful · **Deliver:** deploy and improve.
 
 ## 02 / Selected builds
 
