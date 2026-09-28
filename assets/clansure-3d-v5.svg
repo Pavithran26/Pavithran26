@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" width="1200" height="400" role="img" aria-labelledby="t d">
+<title id="t">CLANSURE — isometric 3D engineering case study</title>
+<desc id="d">Conceptual 3D product artwork with a floating extruded application screen, visible depth and project-specific diagram. Not an application screenshot.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#071426"/><stop offset="1" stop-color="#143A52"/></linearGradient>
+<radialGradient id="gl"><stop stop-color="#62DAE2" stop-opacity=".20"/><stop offset="1" stop-color="#62DAE2" stop-opacity="0"/></radialGradient>
+<clipPath id="cl"><path d="M711 110L1050 57L1087 289L748 347Z"/></clipPath></defs>
+<rect width="1200" height="400" rx="20" fill="url(#bg)"/><rect width="9" height="400" rx="4" fill="#62DAE2"/>
+<circle cx="917" cy="193" r="245" fill="url(#gl)"/>
+<path d="M553 398L840 206M652 398L896 206M750 398L952 206M849 398L1008 206M948 398L1064 206M1047 398L1120 206" stroke="#62DAE2" stroke-opacity=".09" fill="none"/>
+<text x="50" y="65" fill="#62DAE2" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700" letter-spacing="3">01 / INSURANCE × AI</text>
+<path d="M51 87H619" stroke="#62DAE2" stroke-opacity=".4"/>
+<text x="46" y="185" fill="#FFF" font-family="Arial,Helvetica,sans-serif" font-size="90" font-weight="900" letter-spacing="-2.5">CLANSURE</text>
+<text x="49" y="238" fill="#F9CE80" font-family="Arial,Helvetica,sans-serif" font-size="29" font-weight="800">PROTECT WHAT MATTERS.</text>
+<text x="50" y="350" fill="#BBD8E5" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="2.1">POLICY  /  DOCUMENTS  /  INTELLIGENCE</text>
+<ellipse cx="929" cy="368" rx="248" ry="22" fill="#000819" opacity=".5"/>
+<!-- Fully extruded floating browser: top, side, front and lower plane -->
+<path d="M697 104L1037 48L1054 59L711 117Z" fill="#62DAE2" stroke="#D7EBEC" stroke-opacity=".6"/>
+<path d="M1037 48L1054 59L1092 291L1075 281Z" fill="#194058" stroke="#62DAE2" stroke-width="2"/>
+<path d="M697 104L1037 48L1075 281L734 342Z" fill="#1A3D53" stroke="#62DAE2" stroke-width="3"/>
+<path d="M711 110L1050 57L1087 289L748 347Z" fill="#102839"/>
+<!-- Screen content projected along tilted browser plane -->
+<g transform="translate(732 133) skewY(-9)" font-family="Arial,Helvetica,sans-serif">
+ <rect x="0" y="0" width="290" height="30" rx="5" fill="#24546A"/><text x="14" y="21" fill="#DDFBFA" font-size="15" font-weight="700">FAMILY POLICY VAULT</text>
+ <rect x="6" y="47" width="92" height="150" rx="7" fill="#2A5771"/><path d="M19 67H84M19 82H80M19 97H87M19 112H76" stroke="#A6DBE0" stroke-width="3" stroke-linecap="round"/><text x="19" y="179" fill="#F9CE80" font-size="11">SOURCE PDF</text>
+ <path d="M109 127H143" stroke="#62DAE2" stroke-width="3" stroke-dasharray="5 6"><animate attributeName="stroke-dashoffset" values="0;-24" dur="3s" repeatCount="indefinite"/></path>
+ <rect x="149" y="49" width="135" height="145" rx="7" fill="#305F73"/><text x="159" y="71" fill="#F9CE80" font-size="12" font-weight="700">AI EXTRACTION</text><path d="M159 92H269M159 107H257M159 122H273M159 137H252" stroke="#BEDDE5" stroke-width="3"/><text x="159" y="174" fill="#9AE6D9" font-size="12" font-weight="700">POLICY READY ✓</text></g>
+<path d="M734 342L1075 281L1130 314L785 380Z" fill="#315971" stroke="#62DAE2" stroke-width="2"/>
+<path d="M785 380L1130 314V327L783 393L734 356V342Z" fill="#102E43" stroke="#669CB3"/>
+<path d="M751 350L1057 298" stroke="#BCE3E2" stroke-opacity=".4"/>
+<!-- Extruded floating data object -->
+<g transform="translate(1065 53)">
+<path d="M0 16L35 0L70 16L35 32Z" fill="#F9CE80" stroke="#FFF4D9" stroke-width="1.5"/>
+<path d="M0 16L35 32V69L0 52Z" fill="#62DAE2" stroke="#E5F8F7" stroke-width="1.2"/>
+<path d="M35 32L70 16V51L35 69Z" fill="#12506B" stroke="#B8E9EC" stroke-width="1.2"/>
+<animateTransform attributeName="transform" type="translate" values="1065 53;1065 41;1065 53" dur="5s" repeatCount="indefinite"/>
+</g>
+<path d="M615 290C654 208 675 182 734 155" fill="none" stroke="#62DAE2" stroke-width="2" stroke-dasharray="7 9" opacity=".65"><animate attributeName="stroke-dashoffset" values="0;-64" dur="5s" repeatCount="indefinite"/></path>
+<text x="1126" y="374" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#62DAE2" letter-spacing="1.3">3D / PROJECT VISUALIZATION</text>
+</svg>
