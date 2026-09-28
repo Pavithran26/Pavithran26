@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 440" width="1180" height="440" role="img" aria-labelledby="t d">
+<title id="t">How I build: From interface to intelligence</title>
+<desc id="d">An illustrative capability map showing the connection between experience, API systems, data, AI and cloud delivery.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#071B2E"/><stop offset="1" stop-color="#124A69"/></linearGradient>
+<linearGradient id="gold" x2="1"><stop stop-color="#FFD06A"/><stop offset="1" stop-color="#74E3E9"/></linearGradient>
+<marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="3.5" orient="auto"><path d="M0 0L7 3.5L0 7" fill="none" stroke="#FFE0A3" stroke-width="1.5"/></marker>
+</defs>
+<rect width="1180" height="440" rx="20" fill="url(#bg)"/>
+<path d="M34 0V440" stroke="#FFD36B" stroke-width="7"/>
+<text x="66" y="55" fill="#FFD36B" font-family="Arial,Helvetica,sans-serif" font-size="20" font-weight="700" letter-spacing="3">03 / THE ENGINEERING</text>
+<text x="65" y="106" fill="#FFFFFF" font-family="Arial,Helvetica,sans-serif" font-size="39" font-weight="800">EVERY PART SHOULD WORK TOGETHER.</text>
+<text x="67" y="138" fill="#B8DBE9" font-family="Arial,Helvetica,sans-serif" font-size="17">A cross-project capability map, not a single product's deployment architecture.</text>
+<g font-family="Arial,Helvetica,sans-serif">
+<rect x="65" y="185" width="220" height="160" rx="12" fill="#17435A" stroke="#6BCAD6"/>
+<text x="87" y="218" fill="#82DDE6" font-size="16" font-weight="700" letter-spacing="1.5">01 / EXPERIENCE</text>
+<text x="87" y="257" fill="#FFFFFF" font-size="26" font-weight="800">Interfaces</text>
+<text x="87" y="289" fill="#D2E6F1" font-size="17">React / Next.js</text>
+<text x="87" y="313" fill="#D2E6F1" font-size="17">TypeScript / UX</text>
+<rect x="342" y="185" width="220" height="160" rx="12" fill="#17435A" stroke="#6BCAD6"/>
+<text x="364" y="218" fill="#82DDE6" font-size="16" font-weight="700" letter-spacing="1.5">02 / SYSTEMS</text>
+<text x="364" y="257" fill="#FFFFFF" font-size="26" font-weight="800">APIs</text>
+<text x="364" y="289" fill="#D2E6F1" font-size="17">FastAPI / .NET</text>
+<text x="364" y="313" fill="#D2E6F1" font-size="17">Integration / Auth</text>
+<rect x="619" y="185" width="220" height="160" rx="12" fill="#214659" stroke="#F0C777"/>
+<text x="641" y="218" fill="#FFD887" font-size="16" font-weight="700" letter-spacing="1.5">03 / CONTEXT</text>
+<text x="641" y="257" fill="#FFFFFF" font-size="26" font-weight="800">AI + Data</text>
+<text x="641" y="289" fill="#D2E6F1" font-size="17">RAG / LLMs</text>
+<text x="641" y="313" fill="#D2E6F1" font-size="17">Postgres / Firestore</text>
+<rect x="896" y="185" width="220" height="160" rx="12" fill="#17435A" stroke="#6BCAD6"/>
+<text x="918" y="218" fill="#82DDE6" font-size="16" font-weight="700" letter-spacing="1.5">04 / DELIVERY</text>
+<text x="918" y="257" fill="#FFFFFF" font-size="26" font-weight="800">Cloud</text>
+<text x="918" y="289" fill="#D2E6F1" font-size="17">AWS / Vercel</text>
+<text x="918" y="313" fill="#D2E6F1" font-size="17">Render / Docker</text>
+</g>
+<g fill="none" stroke="url(#gold)" stroke-width="3" marker-end="url(#arrow)">
+<path d="M286 266H333"/><path d="M563 266H610"/><path d="M840 266H887"/>
+</g>
+<g fill="#FFF0B8"><circle r="5"><animateMotion path="M286 266H333" dur="3s" repeatCount="indefinite"/></circle><circle r="5"><animateMotion path="M563 266H610" dur="3s" repeatCount="indefinite"/></circle><circle r="5"><animateMotion path="M840 266H887" dur="3s" repeatCount="indefinite"/></circle></g>
+<text x="69" y="399" fill="#FFDC8F" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700" letter-spacing="2">THE GOAL ISN'T MORE TECHNOLOGY. IT'S A BETTER PRODUCT.</text>
+</svg>
