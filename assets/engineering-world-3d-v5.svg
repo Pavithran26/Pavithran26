@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 610" width="1280" height="610" role="img" aria-labelledby="t d">
+<title id="t">Pavithran S. — The 3D engineering world</title>
+<desc id="d">A cinematic isometric workstation and floating product modules with perspective geometry, lighting, shadows, flowing signals and motion.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#060C1C"/><stop offset=".6" stop-color="#0C2743"/><stop offset="1" stop-color="#164D67"/></linearGradient>
+<linearGradient id="s" x2="1" y2="1"><stop stop-color="#174B68"/><stop offset="1" stop-color="#060F22"/></linearGradient>
+<radialGradient id="halo"><stop stop-color="#15BBDD" stop-opacity=".32"/><stop offset="1" stop-color="#15BBDD" stop-opacity="0"/></radialGradient>
+<linearGradient id="gold"><stop stop-color="#FFE0A0"/><stop offset="1" stop-color="#EFAD4B"/></linearGradient>
+<clipPath id="screen"><path d="M642 216L952 163L985 391L676 448Z"/></clipPath>
+<path id="flow" d="M715 168C809 73 978 49 1116 113"/>
+</defs>
+<rect width="1280" height="610" rx="20" fill="url(#bg)"/><rect y="0" width="1280" height="7" fill="url(#gold)"/>
+<circle cx="943" cy="300" r="326" fill="url(#halo)"><animate attributeName="opacity" values=".5;1;.5" dur="9s" repeatCount="indefinite"/></circle>
+<g fill="none" stroke="#6CC9D8" stroke-opacity=".14" stroke-width="1.2">
+<path d="M470 608L860 307M585 608L913 307M700 608L966 307M815 608L1019 307M930 608L1072 307M1045 608L1125 307M1160 608L1178 307"/>
+<path d="M550 560H1270M606 512H1245M661 464H1221M722 416H1196M778 368H1170"/>
+</g>
+<text x="48" y="60" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="3" fill="#B6DDE9">PAVI / THE ENGINEERING WORLD</text>
+<path d="M48 75H500" stroke="#61BACE" stroke-opacity=".6"/>
+<text x="43" y="164" font-family="Arial,Helvetica,sans-serif" font-size="80" font-weight="900" letter-spacing="-3" fill="#FFF">NOT JUST</text>
+<text x="43" y="252" font-family="Arial,Helvetica,sans-serif" font-size="96" font-weight="900" letter-spacing="-3" fill="#FFD473">CODE.</text>
+<text x="47" y="308" font-family="Arial,Helvetica,sans-serif" font-size="33" font-weight="800" fill="#FFF">I BUILD EXPERIENCES</text>
+<text x="47" y="349" font-family="Arial,Helvetica,sans-serif" font-size="33" font-weight="800" fill="#FFF">THAT WORK.</text>
+<path d="M48 381H522" stroke="#73C0D6" opacity=".58"/>
+<text x="48" y="429" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="700" fill="#FFE1A3">PAVITHRAN S.  /  FDE</text>
+<text x="48" y="471" font-family="Arial,Helvetica,sans-serif" font-size="23" fill="#CDEAF0">From Interface to Intelligence.</text>
+<text x="48" y="550" font-family="Arial,Helvetica,sans-serif" font-size="17" letter-spacing="2.6" fill="#84D7E8">PRODUCT  ×  FULL STACK  ×  APPLIED AI</text>
+<!-- A portrait-identity hologram; real illustration remains a separate linked original -->
+<ellipse cx="1120" cy="503" rx="153" ry="26" fill="#000817" opacity=".52"/>
+<path d="M1001 120L1198 83L1214 96L1015 136Z" fill="#FFD88C"/>
+<path d="M1198 83L1214 96L1254 430L1238 416Z" fill="#B9793C"/>
+<path d="M1238 416L1254 430L1050 472L1033 456Z" fill="#194D6A"/>
+<path d="M1001 120L1198 83L1238 416L1033 456Z" fill="#183D58" stroke="#FFD781" stroke-width="3"/>
+<path d="M1036 160L1182 134L1201 329L1054 356Z" fill="#15506B" stroke="#65CCE1" stroke-opacity=".7"/>
+<text x="1107" y="268" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="130" font-weight="900" fill="#FFDB85" transform="rotate(-9 1107 268)">P</text>
+<path d="M1027 370L1227 336L1238 416L1033 456Z" fill="#071A30" opacity=".9"/>
+<text x="1052" y="410" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="800" fill="#FFDA85" transform="rotate(-9 1052 410)">HUMAN / BUILDER / 01</text>
+<!-- Floating screen with actual top and side faces -->
+<ellipse cx="857" cy="531" rx="211" ry="24" fill="#010715" opacity=".55"/>
+<path d="M631 207L953 151L978 167L656 222Z" fill="#41728B" stroke="#9AE2E8" stroke-opacity=".6"/>
+<path d="M953 151L978 167L1011 401L986 395Z" fill="#12334B" stroke="#6ED5E5" stroke-width="2"/>
+<path d="M631 207L953 151L986 395L664 453Z" fill="url(#s)" stroke="#8ADBE7" stroke-width="3"/>
+<path d="M642 216L952 163L985 391L676 448Z" fill="#081A2E"/>
+<g clip-path="url(#screen)">
+<path d="M660 255L970 201" stroke="#205E7B" stroke-width="2"/>
+<text x="674" y="243" fill="#FFDB8E" font-size="17" font-family="monospace" transform="rotate(-9 674 243)">pavi@studio:~$ ship</text>
+<path d="M682 274L870 242" stroke="#6FEBDA" stroke-width="5" stroke-linecap="round"/>
+<path d="M687 301L954 255" stroke="#C5E0F1" stroke-width="4" stroke-linecap="round" opacity=".82"/>
+<path d="M694 326L910 289" stroke="#FBD482" stroke-width="5" stroke-linecap="round"/>
+<path d="M698 354L949 311" stroke="#C5E0F1" stroke-width="4" stroke-linecap="round" opacity=".7"/>
+<path d="M706 382L872 355" stroke="#6FEBDA" stroke-width="5" stroke-linecap="round"/>
+<path d="M711 408L755 401" stroke="#FBD482" stroke-width="5"><animate attributeName="opacity" values="1;.1;1" dur="1.5s" repeatCount="indefinite"/></path>
+</g>
+<!-- Laptop base: isometric upper/front/side planes -->
+<path d="M665 460L986 401L1110 475L782 541Z" fill="#32647D" stroke="#A4E1E8" stroke-width="2"/>
+<path d="M782 541L1110 475L1110 489L780 556L663 475L665 460Z" fill="#0B2B41" stroke="#6395AA"/>
+<path d="M986 401L1110 475L1110 489L985 416Z" fill="#16425B"/>
+<path d="M702 464L972 417L1053 471L776 520Z" fill="#17415A" stroke="#6393A8"/>
+<g fill="none" stroke="#8EB6C6" stroke-width="2" opacity=".62">
+<path d="M724 467L992 421M736 476L1004 430M748 485L1017 440M760 494L1030 449"/>
+<path d="M788 454L849 495M849 443L911 484M910 432L973 473"/>
+</g>
+<path d="M825 519L967 493L985 506L843 533Z" fill="#3F728A"/>
+<!-- Floating volumetric data cube -->
+<g transform="translate(770 77)">
+<ellipse cx="49" cy="112" rx="65" ry="11" fill="#62CFE8" opacity=".15"/>
+<path d="M0 28L51 0L101 27L49 55Z" fill="#C0E8E6" stroke="#FFE0A0" stroke-width="2"/>
+<path d="M0 28L49 55V110L0 83Z" fill="#267998" stroke="#92DAE2" stroke-width="2"/>
+<path d="M49 55L101 27V83L49 110Z" fill="#154B6B" stroke="#92DAE2" stroke-width="2"/>
+<animateTransform attributeName="transform" type="translate" values="770 77;770 61;770 77" dur="5s" repeatCount="indefinite"/>
+</g>
+<use href="#flow" fill="none" stroke="#FFD88F" stroke-width="2.5" stroke-dasharray="8 11" opacity=".85"><animate attributeName="stroke-dashoffset" from="0" to="-76" dur="6s" repeatCount="indefinite"/></use>
+<circle r="6" fill="#FFF1BE"><animateMotion dur="6s" repeatCount="indefinite"><mpath href="#flow"/></animateMotion></circle>
+<!-- A protruding title chip with a front and bottom face -->
+<path d="M1055 531L1219 504L1240 520L1073 551Z" fill="#FFE09B"/>
+<path d="M1073 551L1240 520V533L1073 565Z" fill="#BB7838"/>
+<text x="1092" y="543" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="800" fill="#102B41" transform="rotate(-9 1092 543)">BUILD / SHIP / EVOLVE</text>
+</svg>
