@@ -1,31 +1,66 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1160" height="268" viewBox="0 0 1160 268" role="img" aria-labelledby="title desc">
-<title id="title">Pavithran S. — engineering ideas into working systems</title>
-<desc id="desc">A vivid blue and golden editorial banner with a flowing path of connected engineering nodes.</desc>
+<title id="title">Pavithran S. — From Interface to Intelligence</title>
+<desc id="desc">Blue and gold engineering banner with subtle motion: drifting lights, a flowing signal and pulsing connected nodes.</desc>
 <defs>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#081B36"/><stop offset=".58" stop-color="#0E436A"/><stop offset="1" stop-color="#087C9B"/></linearGradient>
-<linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#FFDB75"/><stop offset="1" stop-color="#FFAE33"/></linearGradient>
-<pattern id="dots" width="27" height="27" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1.1" fill="#ACDDE9" opacity=".19"/></pattern>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#081B36"/><stop offset=".58" stop-color="#0E436A"/><stop offset="1" stop-color="#087C9B"/></linearGradient>
+  <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#FFDB75"/><stop offset="1" stop-color="#FFAE33"/></linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#FFCE65" stop-opacity="0"/><stop offset=".5" stop-color="#FFCE65"/><stop offset="1" stop-color="#79EEFF" stop-opacity="0"/></linearGradient>
+  <radialGradient id="aura"><stop stop-color="#65E4F3" stop-opacity=".32"/><stop offset="1" stop-color="#65E4F3" stop-opacity="0"/></radialGradient>
+  <pattern id="dots" width="27" height="27" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1.1" fill="#ACDDE9" opacity=".19"/></pattern>
+  <path id="route" d="M775 182C821 145 814 80 871 87S928 187 981 153 1025 78 1115 86"/>
 </defs>
 <rect width="1160" height="268" rx="18" fill="url(#bg)"/>
 <rect width="1160" height="268" rx="18" fill="url(#dots)"/>
+<circle cx="922" cy="132" r="160" fill="url(#aura)">
+  <animate attributeName="cx" values="900;985;900" dur="15s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".52;1;.52" dur="10s" repeatCount="indefinite"/>
+</circle>
 <path d="M0 0H22V268H0Z" fill="url(#gold)"/>
 <path d="M50 35H255" stroke="url(#gold)" stroke-width="3"/>
-<text x="52" y="61" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" letter-spacing="3" fill="#FFD76C">ENGINEER / BUILD / DEPLOY</text>
+<rect x="50" y="33" width="60" height="4" rx="2" fill="#FFF0B5">
+  <animate attributeName="x" values="50;192;50" dur="7s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".12;.86;.12" dur="7s" repeatCount="indefinite"/>
+</rect>
+<circle cx="54" cy="56" r="3.5" fill="#FFDA79">
+  <animate attributeName="opacity" values=".4;1;.4" dur="2.8s" repeatCount="indefinite"/>
+</circle>
+<text x="66" y="61" font-family="Arial,Helvetica,sans-serif" font-size="14" font-weight="700" letter-spacing="3" fill="#FFD76C">ENGINEER / BUILD / DEPLOY</text>
 <text x="50" y="143" font-family="Arial,Helvetica,sans-serif" font-size="71" font-weight="800" letter-spacing="-1" fill="#FFFDF5">PAVITHRAN S.</text>
 <text x="52" y="191" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="600" fill="#A6E6F0">FROM INTERFACE TO INTELLIGENCE</text>
+<rect x="54" y="201" width="80" height="2" rx="1" fill="#FFD97B">
+  <animate attributeName="width" values="80;372;80" dur="8s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values=".45;.8;.45" dur="8s" repeatCount="indefinite"/>
+</rect>
 <text x="53" y="233" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#D1E6F4">Building useful software at the intersection of people, products and systems.</text>
 <g fill="none" stroke-linecap="round">
- <path d="M775 182C821 145 814 80 871 87S928 187 981 153 1025 78 1115 86" stroke="#63C5DB" stroke-opacity=".56" stroke-width="23"/>
- <path d="M775 182C821 145 814 80 871 87S928 187 981 153 1025 78 1115 86" stroke="url(#gold)" stroke-width="4" stroke-dasharray="8 13"/>
- <circle cx="802" cy="151" r="22" stroke="#FDD26E" stroke-width="2" fill="#0F4264"/>
- <circle cx="871" cy="87" r="22" stroke="#FDD26E" stroke-width="2" fill="#0F4264"/>
- <circle cx="981" cy="153" r="22" stroke="#FDD26E" stroke-width="2" fill="#0F4264"/>
- <circle cx="1093" cy="85" r="22" stroke="#FDD26E" stroke-width="2" fill="#0F4264"/>
- </g>
-<g font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" fill="#FFE6A2" text-anchor="middle">
- <text x="802" y="156">01</text><text x="871" y="92">02</text><text x="981" y="158">03</text><text x="1093" y="90">04</text>
+  <use href="#route" stroke="#63C5DB" stroke-opacity=".32" stroke-width="23"/>
+  <use href="#route" stroke="url(#gold)" stroke-width="2.5" stroke-dasharray="3 12">
+    <animate attributeName="stroke-dashoffset" from="0" to="-60" dur="5s" repeatCount="indefinite"/>
+  </use>
+  <use href="#route" stroke="#FFE6A3" stroke-width="5" stroke-dasharray="3 260" opacity=".9">
+    <animate attributeName="stroke-dashoffset" values="260;0;-260" dur="9s" repeatCount="indefinite"/>
+  </use>
+  <circle r="7" fill="#FFF4BF" stroke="#F4C566" stroke-width="2">
+    <animateMotion dur="10s" repeatCount="indefinite" rotate="auto"><mpath href="#route"/></animateMotion>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.08;.92;1" dur="10s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="14" fill="#66E2F3" opacity=".22">
+    <animateMotion dur="10s" repeatCount="indefinite" rotate="auto"><mpath href="#route"/></animateMotion>
+    <animate attributeName="opacity" values="0;.24;.24;0" keyTimes="0;.08;.92;1" dur="10s" repeatCount="indefinite"/>
+  </circle>
 </g>
-<path d="M749 36H1116" stroke="#CEE9EC" stroke-opacity=".32"/>
-<path d="M749 233H1116" stroke="#CEE9EC" stroke-opacity=".32"/>
+<g fill="#0F4264" stroke="#FDD26E" stroke-width="2">
+  <circle cx="802" cy="151" r="22"/><circle cx="871" cy="87" r="22"/><circle cx="981" cy="153" r="22"/><circle cx="1093" cy="85" r="22"/>
+</g>
+<g fill="none" stroke="#FFE8A3" opacity=".85">
+  <circle cx="802" cy="151" r="24"><animate attributeName="r" values="24;32;24" dur="3.3s" repeatCount="indefinite"/><animate attributeName="opacity" values=".55;0;.55" dur="3.3s" repeatCount="indefinite"/></circle>
+  <circle cx="871" cy="87" r="24"><animate attributeName="r" values="24;32;24" dur="3.3s" begin=".8s" repeatCount="indefinite"/><animate attributeName="opacity" values=".55;0;.55" dur="3.3s" begin=".8s" repeatCount="indefinite"/></circle>
+  <circle cx="981" cy="153" r="24"><animate attributeName="r" values="24;32;24" dur="3.3s" begin="1.6s" repeatCount="indefinite"/><animate attributeName="opacity" values=".55;0;.55" dur="3.3s" begin="1.6s" repeatCount="indefinite"/></circle>
+  <circle cx="1093" cy="85" r="24"><animate attributeName="r" values="24;32;24" dur="3.3s" begin="2.4s" repeatCount="indefinite"/><animate attributeName="opacity" values=".55;0;.55" dur="3.3s" begin="2.4s" repeatCount="indefinite"/></circle>
+</g>
+<g font-family="Arial,Helvetica,sans-serif" font-size="13" font-weight="700" fill="#FFE6A2" text-anchor="middle">
+  <text x="802" y="156">01</text><text x="871" y="92">02</text><text x="981" y="158">03</text><text x="1093" y="90">04</text>
+</g>
+<path d="M749 36H1116M749 233H1116" stroke="#CEE9EC" stroke-opacity=".32"/>
 <text x="1114" y="253" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="2" fill="#C8E4F1">PAVI / ENGINEERING PROFILE</text>
 </svg>
