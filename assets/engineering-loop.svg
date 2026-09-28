@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="120" viewBox="0 0 1040 120" role="img" aria-labelledby="title desc">
+<title id="title">Engineering loop: explore, engineer, intelligence, deliver</title>
+<desc id="desc">Four steps connected by a subtle looping moving signal.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#0B2948"/><stop offset=".52" stop-color="#114B68"/><stop offset="1" stop-color="#0E334E"/></linearGradient>
+<linearGradient id="gold" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#FFC55D"/><stop offset="1" stop-color="#80D6E8"/></linearGradient>
+<path id="travel" d="M132 45H908"/>
+</defs>
+<rect x="1" y="1" width="1038" height="118" rx="14" fill="url(#bg)" stroke="#477A95" stroke-opacity=".55"/>
+<path d="M132 45H908" fill="none" stroke="#89CCDE" stroke-opacity=".4" stroke-width="2" stroke-dasharray="5 9"/>
+<path d="M132 45H908" fill="none" stroke="url(#gold)" stroke-width="2" stroke-dasharray="34 742">
+<animate attributeName="stroke-dashoffset" from="0" to="-776" dur="9s" repeatCount="indefinite"/>
+</path>
+<circle r="5" fill="#FFE39A"><animateMotion dur="9s" repeatCount="indefinite"><mpath href="#travel"/></animateMotion></circle>
+<g font-family="Arial,Helvetica,sans-serif" text-anchor="middle">
+<g fill="#113750" stroke="#F8CB74" stroke-width="1.8">
+<circle cx="132" cy="45" r="20"/><circle cx="391" cy="45" r="20"/><circle cx="649" cy="45" r="20"/><circle cx="908" cy="45" r="20"/>
+</g>
+<g fill="#FFE9B1" font-weight="700" font-size="13">
+<text x="132" y="50">01</text><text x="391" y="50">02</text><text x="649" y="50">03</text><text x="908" y="50">04</text>
+</g>
+<g fill="#FFFFFF" font-size="15" font-weight="700" letter-spacing="1.5">
+<text x="132" y="90">EXPLORE</text><text x="391" y="90">ENGINEER</text><text x="649" y="90">INTELLIGENCE</text><text x="908" y="90">DELIVER</text>
+</g>
+</g>
+</svg>
