@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="280" viewBox="0 0 1120 280" role="img" aria-labelledby="title description">
+<title id="title">Pavithran S. — Forward Deployed Engineer</title>
+<desc id="description">Premium charcoal profile identity with emerald highlights, selective crimson details, terminal motif and subtle signal motion.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0D1415"/><stop offset=".62" stop-color="#12201E"/><stop offset="1" stop-color="#1B2825"/>
+  </linearGradient>
+  <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#EA5362"/><stop offset=".47" stop-color="#EA5362"/><stop offset=".49" stop-color="#2CD68D"/><stop offset="1" stop-color="#2CD68D"/>
+  </linearGradient>
+  <radialGradient id="haze"><stop stop-color="#2CD68D" stop-opacity=".18"/><stop offset="1" stop-color="#2CD68D" stop-opacity="0"/></radialGradient>
+  <pattern id="pixels" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#C9E6D7" opacity=".12"/></pattern>
+</defs>
+<rect width="1120" height="280" rx="18" fill="url(#bg)"/>
+<rect width="1120" height="280" rx="18" fill="url(#pixels)"/>
+<rect width="1120" height="5" rx="2.5" fill="url(#signal)"/>
+<circle cx="958" cy="136" r="190" fill="url(#haze)">
+  <animate attributeName="opacity" values=".65;1;.65" dur="9s" repeatCount="indefinite"/>
+</circle>
+<path d="M49 43H93" stroke="#EA5362" stroke-width="3.5" stroke-linecap="round"/>
+<path d="M102 43H144" stroke="#2CD68D" stroke-width="3.5" stroke-linecap="round"/>
+<text x="49" y="77" fill="#C0D4CA" font-family="Arial,Helvetica,sans-serif" font-size="16" font-weight="700" letter-spacing="2.5">ENGINEERING / PRODUCT / AI</text>
+<text x="43" y="161" fill="#F6FAF7" font-family="Arial,Helvetica,sans-serif" font-size="76" font-weight="900" letter-spacing="-2">PAVITHRAN S.</text>
+<text x="49" y="208" fill="#4BE5A3" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="700">Forward Deployed Engineer</text>
+<text x="49" y="249" fill="#D6E7DB" font-family="Arial,Helvetica,sans-serif" font-size="21">From Interface to Intelligence.</text>
+<!-- An understated terminal card with a visible thin side plane -->
+<path d="M735 52L1051 52L1064 64L747 64Z" fill="#334943"/>
+<path d="M1051 52L1064 64V225L1051 211Z" fill="#174936"/>
+<rect x="735" y="52" width="316" height="159" rx="10" fill="#0C1717" stroke="#497462" stroke-width="1.5"/>
+<path d="M735 86H1051" stroke="#35594D" stroke-width="1"/>
+<circle cx="754" cy="70" r="4.5" fill="#EA5362"/>
+<circle cx="769" cy="70" r="4.5" fill="#3B7758"/>
+<circle cx="784" cy="70" r="4.5" fill="#2CD68D"/>
+<text x="1029" y="75" text-anchor="end" fill="#9CB8A7" font-family="monospace" font-size="12">pavi / build</text>
+<g font-family="monospace" font-size="15">
+ <text x="752" y="114" fill="#2CD68D">$ design --human-first</text>
+ <text x="752" y="141" fill="#EDF3ED">build(interfaces, systems)</text>
+ <text x="752" y="168" fill="#C2D9CA">connect(api, intelligence)</text>
+ <text x="752" y="195" fill="#EA6973">ship --make-it-matter</text>
+</g>
+<rect x="952" y="182" width="9" height="15" rx="1" fill="#43D995"><animate attributeName="opacity" values="1;.08;1" dur="1.15s" repeatCount="indefinite"/></rect>
+<path d="M742 231H1045" stroke="#2CD68D" stroke-width="2" stroke-dasharray="24 279">
+  <animate attributeName="stroke-dashoffset" values="0;-303" dur="11s" repeatCount="indefinite"/>
+</path>
+<text x="1049" y="252" text-anchor="end" fill="#93BAA1" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="1.6">BUILD  /  CONNECT  /  DELIVER</text>
+</svg>
