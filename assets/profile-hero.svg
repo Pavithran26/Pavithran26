@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="330" viewBox="0 0 1100 330" role="img" aria-labelledby="title desc">
+<title id="title">Pavithran S. — From Interface to Intelligence</title>
+<desc id="desc">A violet and cyan engineering-inspired header introducing Pavithran S., Forward Deployed Engineer.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1020"/><stop offset=".6" stop-color="#11142D"/><stop offset="1" stop-color="#0B1829"/></linearGradient>
+ <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#B794F6"/><stop offset=".55" stop-color="#8B85FF"/><stop offset="1" stop-color="#65D6DC"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#7357DD" stop-opacity=".38"/><stop offset="1" stop-color="#7357DD" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#6E73A6" stroke-opacity=".10"/></pattern>
+ </defs>
+<rect width="1100" height="330" rx="20" fill="url(#bg)"/>
+<rect width="1100" height="330" rx="20" fill="url(#grid)"/>
+<circle cx="933" cy="168" r="210" fill="url(#halo)"/>
+<path d="M54 39H250" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+<circle cx="64" cy="65" r="4" fill="#75E3B3"/>
+<text x="78" y="70" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" letter-spacing="3" fill="#AEBBDB">ENGINEERING PROFILE</text>
+<text x="54" y="153" font-family="Segoe UI,Arial,sans-serif" font-size="73" font-weight="800" letter-spacing="-2" fill="#F8FAFF">PAVITHRAN S.</text>
+<text x="57" y="198" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="650" fill="url(#accent)">FORWARD DEPLOYED ENGINEER</text>
+<text x="57" y="241" font-family="Segoe UI,Arial,sans-serif" font-size="24" font-weight="400" fill="#CBD6ED">From Interface to Intelligence.</text>
+<text x="57" y="291" font-family="Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="2" fill="#95A6C7">FULL STACK  /  AI + RAG  /  CLOUD SYSTEMS</text>
+<g fill="none" stroke-linecap="round">
+ <circle cx="948" cy="165" r="101" stroke="#8C79DB" stroke-opacity=".65" stroke-width="1.5"/>
+ <circle cx="948" cy="165" r="70" stroke="#68CEDA" stroke-opacity=".55" stroke-width="1.5"/>
+ <circle cx="948" cy="165" r="37" stroke="#B5A5FF" stroke-opacity=".78" stroke-width="1.5"/>
+ <path d="M790 165H910M986 165H1067M948 33V128M948 202V295" stroke="#818DB8" stroke-opacity=".55" stroke-dasharray="4 8"/>
+ <path d="M870 96L918 139M976 186L1028 233M862 227L919 185" stroke="#6EBDD1" stroke-opacity=".55"/>
+ </g>
+<circle cx="948" cy="165" r="15" fill="#9C90FE"/>
+<circle cx="948" cy="165" r="6" fill="#F6FAFF"/>
+<circle cx="847" cy="165" r="5" fill="#63D8DD"/>
+<circle cx="948" cy="64" r="5" fill="#B7A0FF"/>
+<circle cx="1017" cy="165" r="5" fill="#65D9E1"/>
+<circle cx="948" cy="235" r="5" fill="#B7A0FF"/>
+<circle cx="1028" cy="233" r="4" fill="#65D9E1"/>
+<circle cx="862" cy="227" r="4" fill="#65D9E1"/>
+<rect x="0" y="321" width="1100" height="9" rx="4" fill="url(#accent)"/>
+</svg>
