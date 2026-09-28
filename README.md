@@ -1,14 +1,23 @@
 <!-- PAVI / ENGINEERING PROFILE · v4 editorial redesign -->
 <div align="center">
 
-<picture>
-  <source media="(max-width: 650px)" srcset="./assets/pavi-cover-mobile-v4.svg" />
-  <img src="./assets/pavi-cover-v4.svg" width="100%" alt="Build the Unexpected. Pavithran S., Forward Deployed Engineer — a portrait-led editorial cover in electric blue and gold." />
-</picture>
+<img src="./assets/engineering-world-3d-v5.svg" width="100%" alt="Cinematic 3D-style engineering scene: isometric workstation, floating hologram, extruded objects and flowing data." />
 
 <br />
 
-**The engineer behind the experience.** Building useful software at the intersection of product, full stack and applied AI.
+<table>
+<tr>
+<td width="32%" align="center" valign="middle">
+  <img src="https://raw.githubusercontent.com/Pavithran26/Pavithran26/main/shared%20image%20%2810%29.jpg" width="240" alt="Illustrated portrait of Pavithran and his motorcycle" />
+</td>
+<td valign="middle">
+  <h3>THE HUMAN IN THE LOOP.</h3>
+  <p><strong>Pavithran S. / Forward Deployed Engineer</strong></p>
+  <p>Designing the interface. Building the system. Connecting the intelligence. Shipping the experience.</p>
+  <p><strong>Dream. Code. Build. Ride. Repeat.</strong></p>
+</td>
+</tr>
+</table>
 
 <br />
 
@@ -31,7 +40,7 @@ I move between **product UI, service architecture, retrieval-based AI and cloud 
 *Different problems. Different architectures. One obsession: making the whole experience work.*
 
 <a href="https://clansure.vercel.app/">
-  <img src="./assets/build-clansure-v4.svg" width="100%" alt="ClanSure — Protect what matters. Visual illustration of document ingestion, extraction and insurance coverage presentation." />
+  <img src="./assets/clansure-3d-v5.svg" width="100%" alt="ClanSure — Protect what matters. Visual illustration of document ingestion, extraction and insurance coverage presentation." />
 </a>
 
 **The problem:** Managing family insurance policies and understanding what's inside complex documents.  
@@ -41,7 +50,7 @@ I move between **product UI, service architecture, retrieval-based AI and cloud 
 <br />
 
 <a href="https://gt-companion.vercel.app/">
-  <img src="./assets/build-gt-v4.svg" width="100%" alt="GT Companion — One connected experience. Visual illustration connecting frontend, backend and retrieval systems." />
+  <img src="./assets/gt-3d-v5.svg" width="100%" alt="GT Companion — One connected experience. Visual illustration connecting frontend, backend and retrieval systems." />
 </a>
 
 **The problem:** Bringing portal workflows, backend services and AI-powered retrieval together.  
@@ -51,7 +60,7 @@ I move between **product UI, service architecture, retrieval-based AI and cloud 
 <br />
 
 <a href="https://github.com/Pavithran26/TN-Sattam/tree/TN_Sattam-Astra">
-  <img src="./assets/build-sattam-v4.svg" width="100%" alt="Sattam AI — Legal knowledge, within reach. Visual illustration showing source documents, search and evidence-grounded responses." />
+  <img src="./assets/sattam-3d-v5.svg" width="100%" alt="Sattam AI — Legal knowledge, within reach. Visual illustration showing source documents, search and evidence-grounded responses." />
 </a>
 
 **The problem:** Making Tamil Nadu legal information easier to explore across languages.  
@@ -63,7 +72,7 @@ I move between **product UI, service architecture, retrieval-based AI and cloud 
 <br /><br />
 
 <a href="https://ranjiths.vercel.app/">
-  <img src="./assets/build-srk-v4.svg" width="100%" alt="SRK Coconut ERP — Make daily operations clearer. Visual illustration of inventory, business workflows and operational insights." />
+  <img src="./assets/srk-3d-v5.svg" width="100%" alt="SRK Coconut ERP — Make daily operations clearer. Visual illustration of inventory, business workflows and operational insights." />
 </a>
 
 **The problem:** Organizing the day-to-day operations of a coconut business.  
@@ -74,13 +83,13 @@ I move between **product UI, service architecture, retrieval-based AI and cloud 
 
 **An extra experiment in visual storytelling:** [PrismIQ — Interactive Innovation Showcase ↗](https://prismiq26.vercel.app/) · [Source](https://github.com/Pavithran26/PrismIQ-Portfolio)
 
-<sub>The panels above are original conceptual project artwork, not claimed screenshots. Each linked project opens the actual application or development branch.</sub>
+<sub>The panels above are original isometric 3D-style conceptual project artwork, not claimed screenshots. Each linked project opens the actual application or development branch.</sub>
 
 <br />
 
 ## 03 / BEHIND THE SCREEN
 
-<img src="./assets/system-map-v4.svg" alt="Engineering capability map: Experience, APIs, AI and data, and cloud delivery." width="100%" />
+<img src="./assets/architecture-3d-v5.svg" alt="Engineering capability map: Experience, APIs, AI and data, and cloud delivery." width="100%" />
 
 **Tools in the workflow:** React · Next.js · TypeScript · Python · FastAPI · ASP.NET Core · RAG · PostgreSQL · Firebase / Firestore · AWS · Docker · Vercel · Render.
 
