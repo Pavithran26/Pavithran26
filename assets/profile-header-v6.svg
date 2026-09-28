@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="260" viewBox="0 0 1120 260" role="img" aria-labelledby="title desc">
+<title id="title">Pavithran S. — Forward Deployed Engineer</title>
+<desc id="desc">Minimal navy and warm gold GitHub header with clean typography and a subtle engineering node motif.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2=".85"><stop stop-color="#0F253B"/><stop offset="1" stop-color="#154D6C"/></linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#F6C96D"/><stop offset="1" stop-color="#77CADB"/></linearGradient>
+</defs>
+<rect width="1120" height="260" rx="18" fill="url(#bg)"/>
+<rect x="0" y="0" width="1120" height="5" rx="2" fill="url(#accent)"/>
+<path d="M49 50H158" stroke="#FFCD73" stroke-width="3" stroke-linecap="round"/>
+<circle cx="166" cy="50" r="4" fill="#FFCD73"><animate attributeName="opacity" values=".5;1;.5" dur="4s" repeatCount="indefinite"/></circle>
+<text x="49" y="76" fill="#ADD9E6" font-family="Arial,Helvetica,sans-serif" font-size="17" font-weight="700" letter-spacing="2.2">PRODUCT ENGINEERING / APPLIED AI</text>
+<text x="44" y="160" fill="#FFFFFF" font-family="Arial,Helvetica,sans-serif" font-size="72" font-weight="850" letter-spacing="-2">PAVITHRAN S.</text>
+<text x="48" y="200" fill="#FFDA92" font-family="Arial,Helvetica,sans-serif" font-size="24" font-weight="700">Forward Deployed Engineer</text>
+<text x="49" y="237" fill="#C4E0EA" font-family="Arial,Helvetica,sans-serif" font-size="19">From Interface to Intelligence.</text>
+<g fill="none" stroke="#7FC8D7" stroke-width="2" stroke-opacity=".55">
+<path d="M835 81L920 128L1008 77L1065 140L979 187L920 128L876 203L835 81"/>
+<path d="M835 81L1008 77M920 128L1065 140" stroke-dasharray="5 8"/>
+</g>
+<g fill="#184C65" stroke="#FFD47E" stroke-width="2">
+<circle cx="835" cy="81" r="10"/><circle cx="920" cy="128" r="15"/><circle cx="1008" cy="77" r="10"/><circle cx="1065" cy="140" r="10"/><circle cx="979" cy="187" r="10"/><circle cx="876" cy="203" r="10"/>
+</g>
+<circle cx="920" cy="128" r="4" fill="#FFE6AD"/>
+<text x="1080" y="238" text-anchor="end" fill="#B6D3E0" font-family="Arial,Helvetica,sans-serif" font-size="13" letter-spacing="1.5">BUILD / CONNECT / DELIVER</text>
+</svg>
