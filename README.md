@@ -54,10 +54,10 @@ Distinct projects, with their own icons and direct links to the relevant applica
 <p>Family insurance management with policy and document intelligence.</p>
 <p><strong>Stack:</strong> React · ASP.NET Core 8 · FastAPI/RAG · PostgreSQL · object storage.</p>
 <p>
-<a href="https://clansure.vercel.app/"><img alt="ClanSure Live App" src="https://img.shields.io/badge/Live_App-155D76?style=flat-square&amp;logo=vercel&amp;logoColor=white" /></a>
-<a href="https://github.com/Pavithran26/CLANSURE"><img alt="ClanSure GitHub Source" src="https://img.shields.io/badge/Source-182A3A?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
-<a href="https://clansure-api.onrender.com/"><img alt="ASP.NET Backend API" src="https://img.shields.io/badge/Backend_API-325684?style=flat-square&amp;logo=dotnet&amp;logoColor=white" /></a>
-<a href="https://clansure-rag.onrender.com/"><img alt="Python RAG API" src="https://img.shields.io/badge/RAG_Service-486978?style=flat-square&amp;logo=python&amp;logoColor=white" /></a>
+<a href="https://clansure.vercel.app/"><img alt="ClanSure Live App" src="https://img.shields.io/badge/Live-App-155D76?style=flat-square&amp;logo=vercel&amp;logoColor=white" /></a>
+<a href="https://github.com/Pavithran26/CLANSURE"><img alt="ClanSure GitHub Source" src="https://img.shields.io/badge/GitHub-Source-182A3A?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
+<a href="https://clansure-api.onrender.com/"><img alt="ASP.NET Backend API" src="https://img.shields.io/badge/Backend-API-325684?style=flat-square&amp;logo=dotnet&amp;logoColor=white" /></a>
+<a href="https://clansure-rag.onrender.com/"><img alt="Python RAG API" src="https://img.shields.io/badge/RAG-Service-486978?style=flat-square&amp;logo=python&amp;logoColor=white" /></a>
 </p>
 </td>
 </tr>
@@ -68,8 +68,8 @@ Distinct projects, with their own icons and direct links to the relevant applica
 <p>Companion portal bringing frontend, backend and AI retrieval together.</p>
 <p><strong>Stack:</strong> React · .NET/C# · Python FastAPI · RAG microservice.</p>
 <p>
-<a href="https://gt-companion.vercel.app/"><img alt="GT Companion Live App" src="https://img.shields.io/badge/Live_App-155D76?style=flat-square&amp;logo=vercel&amp;logoColor=white" /></a>
-<a href="https://github.com/Pavithran26/GT-Companion"><img alt="GT Companion GitHub Source" src="https://img.shields.io/badge/Source-182A3A?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
+<a href="https://gt-companion.vercel.app/"><img alt="GT Companion Live App" src="https://img.shields.io/badge/Live-App-155D76?style=flat-square&amp;logo=vercel&amp;logoColor=white" /></a>
+<a href="https://github.com/Pavithran26/GT-Companion"><img alt="GT Companion GitHub Source" src="https://img.shields.io/badge/GitHub-Source-182A3A?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
 </p>
 </td>
 </tr>
@@ -80,8 +80,8 @@ Distinct projects, with their own icons and direct links to the relevant applica
 <p>Multilingual Tamil Nadu legal information assistant grounded in source documents.</p>
 <p><strong>Active branch:</strong> React/Vite · Capacitor · FastAPI · Firebase Authentication · Firestore vector retrieval.</p>
 <p>
-<a href="https://github.com/Pavithran26/TN-Sattam/tree/TN_Sattam-Astra"><img alt="Active Sattam AI Branch" src="https://img.shields.io/badge/Active_Branch-655080?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
-<a href="https://github.com/Pavithran26/TN-Sattam"><img alt="Sattam AI Repository" src="https://img.shields.io/badge/Repository-182A3A?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
+<a href="https://github.com/Pavithran26/TN-Sattam/tree/TN_Sattam-Astra"><img alt="Active Sattam AI Branch" src="https://img.shields.io/badge/Active-Branch-655080?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
+<a href="https://github.com/Pavithran26/TN-Sattam"><img alt="Sattam AI Repository" src="https://img.shields.io/badge/GitHub-Repository-182A3A?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
 </p>
 </td>
 </tr>
@@ -91,7 +91,7 @@ Distinct projects, with their own icons and direct links to the relevant applica
 <h3><a href="https://ranjiths.vercel.app/">SRK Coconut ERP</a></h3>
 <p>Business operations application for day-to-day coconut workflows.</p>
 <p><strong>Focus:</strong> Business workflows · operational UI · application development.</p>
-<p><a href="https://ranjiths.vercel.app/"><img alt="SRK Coconut ERP Live App" src="https://img.shields.io/badge/Live_App-155D76?style=flat-square&amp;logo=vercel&amp;logoColor=white" /></a></p>
+<p><a href="https://ranjiths.vercel.app/"><img alt="SRK Coconut ERP Live App" src="https://img.shields.io/badge/Live-App-155D76?style=flat-square&amp;logo=vercel&amp;logoColor=white" /></a></p>
 </td>
 </tr>
 <tr>
@@ -100,8 +100,8 @@ Distinct projects, with their own icons and direct links to the relevant applica
 <h3><a href="https://prismiq26.vercel.app/">PrismIQ — Innovation Showcase</a></h3>
 <p>Creative 3D and motion-focused innovation showcase.</p>
 <p>
-<a href="https://prismiq26.vercel.app/"><img alt="PrismIQ Live Showcase" src="https://img.shields.io/badge/Live_Showcase-155D76?style=flat-square&amp;logo=vercel&amp;logoColor=white" /></a>
-<a href="https://github.com/Pavithran26/PrismIQ-Portfolio"><img alt="PrismIQ GitHub Source" src="https://img.shields.io/badge/Source-182A3A?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
+<a href="https://prismiq26.vercel.app/"><img alt="PrismIQ Live Showcase" src="https://img.shields.io/badge/Live-Showcase-155D76?style=flat-square&amp;logo=vercel&amp;logoColor=white" /></a>
+<a href="https://github.com/Pavithran26/PrismIQ-Portfolio"><img alt="PrismIQ GitHub Source" src="https://img.shields.io/badge/GitHub-Source-182A3A?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
 </p>
 </td>
 </tr>
