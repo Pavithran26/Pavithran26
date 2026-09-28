@@ -1,133 +1,150 @@
 <div align="center">
 
-  <img src="./assets/profile-hero.svg" width="100%" alt="Pavithran S. — Forward Deployed Engineer. From Interface to Intelligence." />
+<img src="./assets/identity-banner-v3.svg" alt="Pavithran S. — From Interface to Intelligence" width="100%" />
 
-  <br />
+<br /><br />
 
-  <a href="https://pavithran26.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Explore-9C83F6?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/pavithran26s/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" /></a>
-  <a href="mailto:pavithran2004s@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Say%20hello-25304A?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" /></a>
+<img src="https://raw.githubusercontent.com/Pavithran26/Pavithran26/main/shared%20image%20%2810%29.jpg" alt="Illustrated portrait of Pavithran with his adventure motorcycle" width="245" />
 
-  <br /><br />
+### Hey, I'm Pavi 👋
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3200&amp;pause=950&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=840&amp;height=44&amp;lines=Building+from+interface+to+intelligence.;AI+%2B+RAG+%7C+Full+Stack+%7C+Cloud+Systems;Design.+Engineer.+Deploy.+Iterate." alt="Engineering focus: AI, RAG, full stack and cloud systems" />
+**Forward Deployed Engineer (FDE)** · Full Stack · Applied AI · Cloud
+
+*I like the space between a good idea and a product people can actually use.*
+
+<a href="https://pavithran26.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE_PORTFOLIO-FFCA66?style=for-the-badge&labelColor=10476B&logo=vercel&logoColor=white" alt="Explore Portfolio" /></a>
+<a href="https://www.linkedin.com/in/pavithran26s/"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-137DA5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+<a href="mailto:pavithran2004s@gmail.com"><img src="https://img.shields.io/badge/SAY_HELLO-172A40?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Pavithran" /></a>
 
 </div>
 
-## Hello, I'm Pavithran 👋
+---
 
-I work across **product interfaces, backend APIs, AI/RAG workflows and cloud delivery**. I enjoy turning practical problems into connected applications — from the user's first interaction to the services, data and infrastructure behind it.
+## 01 / What I build
 
-**My focus:** thoughtful product experiences · grounded AI · clean service boundaries · shipping usable software.
+My work connects **interfaces, backend services, AI retrieval workflows and cloud infrastructure**. I enjoy understanding the actual problem, choosing an architecture that fits, and getting the result into a usable product.
 
-## Selected engineering work
+`01  EXPLORE` → understand the workflow & user need  
+`02  ENGINEER` → build the interface, APIs & data flow  
+`03  INTELLIGENCE` → integrate AI where it genuinely helps  
+`04  DELIVER` → deploy, test, learn & improve
 
-These are four projects that best represent the breadth of what I build. Each has a different problem space rather than being another copy of the same tech demo.
+## 02 / Selected builds
 
-### `01` Sattam AI — Tamil Nadu legal information assistant
+Real project problems, different systems and distinct engineering decisions.
 
-> A Tamil Nadu-focused, multilingual legal-information assistant designed around legal documents and evidence-grounded retrieval.
+### [ClanSure ↗](https://clansure.vercel.app/) <sup>01 · INSURTECH / AI</sup>
 
-**Engineering focus:** React + Vite · Capacitor · FastAPI · Firebase Authentication · Firestore / vector retrieval · LLM-assisted RAG.
+Family insurance and policy-management experience with AI-assisted document understanding.
 
-[Explore the active architecture branch ↗](https://github.com/Pavithran26/TN-Sattam/tree/TN_Sattam-Astra)  ·  [Repository ↗](https://github.com/Pavithran26/TN-Sattam)
+**Built around:** React, ASP.NET Core 8, FastAPI RAG services, PostgreSQL and object storage.
 
-<sub>Provides legal information; it is not a substitute for professional legal advice. The active TN_Sattam-Astra architecture differs from the older default-branch README.</sub>
+[Launch app](https://clansure.vercel.app/) · [API](https://clansure-api.onrender.com/) · [RAG service](https://clansure-rag.onrender.com/) · [Source](https://github.com/Pavithran26/CLANSURE)
 
 ---
 
-### `02` ClanSure — family insurance and policy intelligence
+### [GT Companion ↗](https://gt-companion.vercel.app/) <sup>02 · FULL STACK / RAG</sup>
 
-> An insurance management portal bringing together family records, policy documentation, document storage and AI-assisted policy understanding.
+Companion portal combining frontend experiences, backend services and a document-retrieval component.
 
-**Engineering focus:** React · ASP.NET Core 8 · Python/FastAPI RAG service · PostgreSQL · document/object storage.
+**Built around:** React, .NET/C#, Python FastAPI and an AI/RAG microservice.
 
-[Live application ↗](https://clansure.vercel.app/)  ·  [API ↗](https://clansure-api.onrender.com/)  ·  [AI service ↗](https://clansure-rag.onrender.com/)  ·  [Source ↗](https://github.com/Pavithran26/CLANSURE)
-
----
-
-### `03` GT Companion — full-stack companion platform
-
-> A React-based companion portal connected to .NET backend services and a Python FastAPI AI/RAG component.
-
-**Engineering focus:** frontend/backend integration · REST services · retrieval workflows · deployment architecture.
-
-[Live application ↗](https://gt-companion.vercel.app/)  ·  [Source ↗](https://github.com/Pavithran26/GT-Companion)
+[Launch app](https://gt-companion.vercel.app/) · [Source](https://github.com/Pavithran26/GT-Companion)
 
 ---
 
-### `04` SRK Coconut ERP — business operations
+### [Sattam AI ↗](https://github.com/Pavithran26/TN-Sattam/tree/TN_Sattam-Astra) <sup>03 · LEGAL INFORMATION / AI</sup>
 
-> A business-oriented application for organizing the operational workflows of a coconut business.
+Multilingual Tamil Nadu legal-information assistant designed around curated legal documents and evidence-constrained responses.
 
-**Engineering focus:** business workflow design · operational interfaces · application development.
+**Active architecture branch:** React + Vite, Capacitor, FastAPI, Firebase Authentication, Firestore, vector retrieval and LLMs.
 
-[Live application ↗](https://ranjiths.vercel.app/)
+[Explore active branch](https://github.com/Pavithran26/TN-Sattam/tree/TN_Sattam-Astra) · [Repository](https://github.com/Pavithran26/TN-Sattam)
+
+<sub>Sattam AI provides legal information, not professional legal advice. The active branch is more current than the default-branch README.</sub>
+
+---
+
+### [SRK Coconut ERP ↗](https://ranjiths.vercel.app/) <sup>04 · BUSINESS OPERATIONS</sup>
+
+A business-oriented application for organizing day-to-day coconut business workflows.
+
+**Focus:** operational interfaces, workflow design and usable business software.
+
+[Launch app](https://ranjiths.vercel.app/)
+
+<details>
+<summary><b>One more creative build: PrismIQ</b></summary>
 
 <br />
 
-**Also exploring the visual side of engineering:** [PrismIQ — interactive innovation showcase ↗](https://prismiq26.vercel.app/) · [Source](https://github.com/Pavithran26/PrismIQ-Portfolio)
+An interactive innovation showcase exploring 3D presentation, motion and navigable project storytelling.
 
-## The engineering blueprint
+[Explore PrismIQ](https://prismiq26.vercel.app/) · [Source](https://github.com/Pavithran26/PrismIQ-Portfolio)
 
-<div align="center">
-  <img src="./assets/engineering-blueprint.svg" width="100%" alt="Illustrative blueprint: interface to APIs, intelligence and data, then cloud delivery" />
-</div>
+</details>
 
-The illustration represents my **cross-project toolkit**, not a claim that every featured application shares one architecture.
+## 03 / The toolkit
 
-| Area | Tools and technologies |
+I choose the stack for the problem rather than making every problem fit the same stack.
+
+| Domain | What I work with |
 | :--- | :--- |
-| **Interface** | React, Next.js, TypeScript, Tailwind CSS |
-| **APIs & services** | Python, FastAPI, ASP.NET Core / C#, Django, REST APIs |
-| **Applied AI** | LLM integrations, RAG, embeddings, document retrieval |
-| **Data & storage** | PostgreSQL, Firebase / Firestore, AWS S3 |
-| **Delivery** | Docker, GitHub Actions, Vercel, Render, AWS |
-| **Also worked with** | Java, Flutter / Dart |
+| **Product interfaces** | React · Next.js · TypeScript · Tailwind CSS |
+| **Backend engineering** | Python · FastAPI · Django · ASP.NET Core · REST APIs |
+| **Applied intelligence** | LLM integrations · RAG · embeddings · document workflows |
+| **Data & storage** | PostgreSQL · Firebase / Firestore · AWS S3 |
+| **Cloud & delivery** | AWS · Vercel · Render · Docker · GitHub Actions |
+| **Additional experience** | Java · Flutter / Dart |
 
-## Milestones & experience
+<sub>This is a cross-project toolkit, not one shared architecture for all applications.</sub>
 
-- **KALAM 2025 — Hackathon Champion / First Place** · Sri Shakthi Institute of Engineering & Technology, Coimbatore · 21–22 March 2025.
-- **Software Development Intern** · Cognifyz Technologies · Apr–May 2025.
-- **Java Internship Training** · Internship Studio · completed November 2024.
+## 04 / Along the way
+
+🏆 **KALAM 2025 Hackathon — Champion / First Place**  
+Sri Shakthi Institute of Engineering & Technology, Coimbatore · 21–22 March 2025
+
+💼 **Software Development Intern — Cognifyz Technologies**  
+April–May 2025
+
+☕ **Java Internship Training — Internship Studio**  
+Completed November 2024
 
 <details>
-  <summary><b>Selected certificates</b></summary>
-  <br />
-  <img src="./hplite.jpg" height="180" alt="HP LIFE certificate" />
-  <img src="./IMG-20250107-WA0000.jpg" height="180" alt="Additional learning certificate" />
+<summary><b>View selected certificates</b></summary>
+<br />
+<img src="./hplite.jpg" alt="HP LIFE certificate" height="170" />
+<img src="./IMG-20250107-WA0000.jpg" alt="Additional certificate" height="170" />
 </details>
 
-## GitHub activity
+## 05 / On GitHub
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pavithran26/Pavithran26/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pavithran26/Pavithran26/output/github-snake.svg" />
-    <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/Pavithran26/Pavithran26/output/github-snake.svg" width="100%" />
-  </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pavithran26/Pavithran26/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pavithran26/Pavithran26/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Pavithran26/Pavithran26/output/github-snake.svg" alt="Pavithran's GitHub contribution snake" width="100%" />
+</picture>
+
 </div>
 
 <details>
-  <summary><b>Explore the 3D contribution graph</b></summary>
-  <br />
-  <div align="center">
-    <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D representation of GitHub contributions" />
-  </div>
+<summary><b>Open the 3D contribution graph</b></summary>
+<br />
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contribution visual" width="100%" />
 </details>
 
-## Connect
+---
 
 <div align="center">
 
-**Let's turn useful ideas into working systems.**
+### Have a problem worth building for?
 
-[Portfolio](https://pavithran26.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/pavithran26s/) · [GitHub](https://github.com/Pavithran26) · [LeetCode](https://www.leetcode.com/u/dawn26/) · [Email](mailto:pavithran2004s@gmail.com)
+[**PORTFOLIO ↗**](https://pavithran26.vercel.app/) &nbsp;·&nbsp;
+[**LINKEDIN ↗**](https://www.linkedin.com/in/pavithran26s/) &nbsp;·&nbsp;
+[**EMAIL ↗**](mailto:pavithran2004s@gmail.com)
 
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=90&amp;section=footer" width="100%" alt="Decorative violet wave footer" />
-
-<sub>From Interface to Intelligence · Pavithran S.</sub>
+<sub>Dream. Code. Build. Ride. Repeat. · Pavithran S.</sub>
 
 </div>
