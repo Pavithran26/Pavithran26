@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="385" viewBox="0 0 1100 385" role="img" aria-labelledby="title desc">
+<title id="title">Engineering blueprint: from interface to intelligence</title>
+<desc id="desc">Illustrative cross-project capability map: frontend interface, backend APIs, intelligence and data, delivery and cloud.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1020"/><stop offset="1" stop-color="#15172C"/></linearGradient>
+ <linearGradient id="top" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#B594FA"/><stop offset="1" stop-color="#66D6DA"/></linearGradient>
+ <marker id="arrow" markerWidth="8" markerHeight="8" refX="5" refY="3" orient="auto"><path d="M0 0L6 3L0 6" fill="none" stroke="#8F9EE0" stroke-width="1.5"/></marker>
+</defs>
+<rect width="1100" height="385" rx="18" fill="url(#bg)"/>
+<path d="M35 19H1064" stroke="url(#top)" stroke-width="2.5" stroke-linecap="round"/>
+<text x="45" y="62" font-family="Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" fill="#F5F7FF">THE ENGINEERING BLUEPRINT</text>
+<text x="45" y="91" font-family="Segoe UI,Arial,sans-serif" font-size="16" fill="#AFBEDA">Connecting product experience, services, intelligence and delivery.</text>
+<text x="1055" y="61" text-anchor="end" font-family="Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="1.5" fill="#9E94E8">CAPABILITY MAP</text>
+<g font-family="Segoe UI,Arial,sans-serif">
+ <rect x="45" y="125" width="215" height="188" rx="15" fill="#1F223F" stroke="#7771BD"/>
+ <rect x="57" y="137" width="38" height="32" rx="8" fill="#4D3D7D"/>
+ <text x="76" y="159" text-anchor="middle" font-size="14" font-weight="700" fill="#EDE6FF">01</text>
+ <text x="63" y="202" font-size="19" font-weight="700" fill="#F7F6FF">Interface</text>
+ <text x="63" y="236" font-size="15" fill="#C0C6E7">React / Next.js</text>
+ <text x="63" y="263" font-size="15" fill="#C0C6E7">TypeScript</text>
+ <text x="63" y="290" font-size="15" fill="#C0C6E7">Experience design</text>
+ <rect x="310" y="125" width="215" height="188" rx="15" fill="#1B2840" stroke="#597FBA"/>
+ <rect x="322" y="137" width="38" height="32" rx="8" fill="#304D81"/>
+ <text x="341" y="159" text-anchor="middle" font-size="14" font-weight="700" fill="#D6E8FF">02</text>
+ <text x="328" y="202" font-size="19" font-weight="700" fill="#F7F6FF">Application APIs</text>
+ <text x="328" y="236" font-size="15" fill="#C1D4EB">Python / FastAPI</text>
+ <text x="328" y="263" font-size="15" fill="#C1D4EB">ASP.NET Core</text>
+ <text x="328" y="290" font-size="15" fill="#C1D4EB">REST and integrations</text>
+ <rect x="575" y="125" width="215" height="188" rx="15" fill="#25213F" stroke="#9B74D8"/>
+ <rect x="587" y="137" width="38" height="32" rx="8" fill="#60458E"/>
+ <text x="606" y="159" text-anchor="middle" font-size="14" font-weight="700" fill="#EEE1FF">03</text>
+ <text x="593" y="202" font-size="19" font-weight="700" fill="#F7F6FF">Intelligence + Data</text>
+ <text x="593" y="236" font-size="15" fill="#D7CBEF">RAG / LLM integration</text>
+ <text x="593" y="263" font-size="15" fill="#D7CBEF">PostgreSQL / Firebase</text>
+ <text x="593" y="290" font-size="15" fill="#D7CBEF">Document retrieval</text>
+ <rect x="840" y="125" width="215" height="188" rx="15" fill="#16363E" stroke="#4DAAB0"/>
+ <rect x="852" y="137" width="38" height="32" rx="8" fill="#266B70"/>
+ <text x="871" y="159" text-anchor="middle" font-size="14" font-weight="700" fill="#DCFFFF">04</text>
+ <text x="858" y="202" font-size="19" font-weight="700" fill="#F7F6FF">Delivery</text>
+ <text x="858" y="236" font-size="15" fill="#BDE0E1">AWS / Vercel</text>
+ <text x="858" y="263" font-size="15" fill="#BDE0E1">Render / Docker</text>
+ <text x="858" y="290" font-size="15" fill="#BDE0E1">Cloud operations</text>
+</g>
+<g stroke="#8F9EE0" stroke-width="2" fill="none" marker-end="url(#arrow)">
+ <path d="M267 219H301"/><path d="M532 219H566"/><path d="M797 219H831"/>
+</g>
+<text x="45" y="354" font-family="Segoe UI,Arial,sans-serif" font-size="13.5" fill="#98A9C8">An illustrative map of skills across projects — not a single application's deployment diagram.</text>
+</svg>
