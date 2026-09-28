@@ -18,10 +18,10 @@ jobs:
         id: snake-gif
         with:
           github_user_name: pavithran26
-          # Palette matched to the profile's violet/glass theme (%23 = URL-encoded #)
+          # Emerald contribution levels with a crimson snake; %23 is URL-encoded #.
           outputs: |
-            dist/github-snake.svg?color_snake=%237C6FCD&color_dots=%23EDEDF5,%23C9C2EE,%23A78BFA,%237C6FCD,%235B4FA8
-            dist/github-snake-dark.svg?color_snake=%23A78BFA&color_dots=%230D0D1A,%232A2545,%234A3F7A,%237C6FCD,%23A78BFA
+            dist/github-snake.svg?color_snake=%23D94D60&color_dots=%23F2F6F3,%23CAEAD5,%2389D8AE,%2329B977,%2317774E
+            dist/github-snake-dark.svg?color_snake=%23EF6371&color_dots=%230D1513,%231D382C,%232B694B,%2337AC73,%2367DDA0
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
