@@ -36,7 +36,7 @@
 
 <br /><br />
 
-**C · C++ · C# · Java · Python · JavaScript · TypeScript · Kotlin · R · Dart**
+**C · C++ · C# · Java · Python · JavaScript · TypeScript · Kotlin · R · Dart · SQL · Assembly**
 
 </div>
 
@@ -111,20 +111,71 @@ Distinct projects, with their own icons and direct links to the relevant applica
 
 ## 🛠️ Engineering toolkit
 
+A categorized inventory of technologies I've worked with, studied or explored across software engineering, applied AI, data, enterprise systems and creative development. Familiarity varies by tool; this is not a claim of equal proficiency in everything.
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,django,flask,fastapi,dotnet,postgres,mysql,firebase,aws,docker&amp;theme=dark&amp;perline=12" width="690" alt="Framework and platform icons: React, Next.js, Tailwind CSS, Django, Flask, FastAPI, .NET, PostgreSQL, MySQL, Firebase, AWS, Docker" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,django,flask,fastapi,dotnet,postgres,mysql,firebase,aws,docker&amp;theme=dark&amp;perline=12" width="690" alt="Selected frontend, backend, data, cloud and DevOps technologies" />
 
 </div>
 
-| Area | Technologies |
+### Languages, markup & runtimes
+
+| Category | Technologies |
 | :--- | :--- |
-| **UI / Frontend** | React, Next.js, TypeScript, Tailwind CSS, shadcn/ui |
-| **Backend / APIs** | Python, FastAPI, Django, Flask, ASP.NET Core, REST APIs |
-| **AI Engineering** | RAG, LLM integration, embeddings, document workflows |
-| **Data / Storage** | PostgreSQL, MySQL, Firebase / Firestore, AWS S3 |
-| **Cloud / DevOps** | AWS, Vercel, Render, Docker, GitHub Actions |
-| **Mobile** | React + Capacitor, Flutter / Dart |
+| **Programming** | Python, JavaScript, TypeScript, Java, C, C++, C#, Dart, Kotlin, R, SQL, Assembly |
+| **Web & configuration** | HTML5, CSS3, XML, JSON, YAML |
+| **Runtimes / build** | Node.js, npm, Vite, Babel |
+
+### Application engineering
+
+| Area | Technologies & concepts |
+| :--- | :--- |
+| **Frontend** | React.js, Next.js, Vue.js, Ember.js, Tailwind CSS, Material UI (MUI), shadcn/ui, Bootstrap |
+| **Backend & enterprise** | Express.js, Node.js, Django, FastAPI, Flask, ASP.NET Core 8, .NET Framework Web API, Java Spring Boot, Pega, Entity Framework Core |
+| **APIs & integration** | REST / RESTful APIs, SOAP, RST (as listed in my toolkit), HTTP, JSON/XML interchange, middleware, API integrations, CRUD |
+| **Mobile** | React Native, Expo, Flutter, Dart, React + Capacitor, Android APK packaging, Firebase mobile integration |
+| **Architecture** | Microservices, full-stack engineering, high-level system design (HLD), OOP, data structures & algorithms, database design, frontend–backend integration, authentication & authorization, business workflows and ERP systems |
+
+### AI, LLMs, machine learning & analytics
+
+| Area | Technologies & concepts |
+| :--- | :--- |
+| **Generative AI** | LLM integration, Google Gemini 2.5 Flash, conversational AI, prompt engineering, structured JSON extraction, document intelligence |
+| **RAG & retrieval** | Retrieval-Augmented Generation (RAG), LangChain, embeddings, vector search; Qdrant / pgvector explored as architectural options |
+| **Model adaptation & learning** | LLM fine-tuning, QLoRA (Quantized Low-Rank Adaptation), Reinforcement Learning |
+| **Data & classical ML** | NumPy, Pandas, Scikit-learn, XGBoost, Random Forest, ARIMA, data processing, classification and forecasting |
+| **Deep learning & vision** | PyTorch, Keras, DenseNet121, OpenCV, MediaPipe, Wav2Vec2 |
+| **Analytics / presentation** | Matplotlib, Power BI, DAX, Streamlit, data visualization |
+
+### Databases, cloud, security & delivery
+
+| Area | Technologies & concepts |
+| :--- | :--- |
+| **Databases & storage** | PostgreSQL, MySQL, Firebase Firestore, Redis, AWS S3, cloud/object storage |
+| **Identity & security** | Firebase Authentication, Clerk, Google OAuth, JWT, API keys, environment variables, secrets management, rate limiting |
+| **Cloud & deployment** | AWS, AWS S3, AWS Secrets Manager, AWS CloudFormation, Vercel, Render, Railway |
+| **DevOps & OS** | Linux, Docker, Git, GitHub, GitHub Actions, CI/CD, deployment automation |
+
+### Developer workflow, testing & collaboration
+
+**Google Antigravity · Cursor · Visual Studio Code (VS Code) · Postman · Playwright · Slack · SerialLog · Git · GitHub · Linux Terminal · npm · Docker · Figma**
+
+API testing, browser automation, debugging, version control and team collaboration.
+
+### Creative engineering, UI/UX & motion
+
+| Area | Technologies & practices |
+| :--- | :--- |
+| **3D / interactive web** | Three.js, React Three Fiber (@react-three/fiber), Drei (@react-three/drei), WebGL, OGL, React Postprocessing |
+| **Animation** | GSAP, Framer Motion, React Spring (explored), Lottie React, tsParticles, Lenis, SplitType, CSS animation and scroll-driven motion |
+| **UI / styling** | Material UI, shadcn/ui, Tailwind CSS, CSS transitions, Neumorphism, Glassmorphism, Skeuomorphism / morphism-inspired styles |
+| **Design & quality** | Figma, typography, SEO, accessibility, responsive design, component systems, interface performance, tailwind-merge, Geist fonts |
+
+### Other hands-on / explored areas
+
+**IoT & hardware:** ESP8266, RF receiver, Telegram alerts / controls.  
+**Other development:** Pygame, Python web scraping, document/email ingestion pipelines, applied business-process automation.
 
 <details>
 <summary><b>Explore optional 3D design studies</b></summary>
