@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 350" width="1180" height="350" role="img" aria-labelledby="t d">
+<title id="t">GT COMPANION — editorial project artwork</title>
+<desc id="d">Conceptual engineering visualization of PORTAL  /  API  /  INTELLIGENCE. Select the card to open the live application or project branch.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#141C40"/><stop offset=".64" stop-color="#0E2840"/><stop offset="1" stop-color="#123956"/></linearGradient>
+<linearGradient id="shade" x2="1"><stop stop-color="#09192B"/><stop offset=".62" stop-color="#0B2033" stop-opacity=".76"/><stop offset="1" stop-color="#0B2033" stop-opacity="0"/></linearGradient>
+<pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" fill="none" stroke="#B6A7FF" stroke-opacity=".10"/></pattern>
+</defs>
+<rect width="1180" height="350" rx="19" fill="url(#bg)"/>
+<rect width="1180" height="350" rx="19" fill="url(#grid)"/>
+<rect x="0" y="0" width="8" height="350" rx="4" fill="#B6A7FF"/>
+<circle cx="981" cy="178" r="190" fill="#B6A7FF" opacity=".035"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<rect x="714" y="51" width="424" height="251" rx="15" fill="#142E52" stroke="#A6A0E8" stroke-opacity=".8"/>
+<rect x="734" y="70" width="385" height="36" rx="6" fill="#243B66"/>
+<circle cx="752" cy="88" r="4" fill="#B5AAFF"/><circle cx="766" cy="88" r="4" fill="#82BEE5"/><circle cx="780" cy="88" r="4" fill="#F4C66B"/>
+<text x="896" y="94" text-anchor="middle" font-size="14" font-weight="700" fill="#DFEAFF">GT / COMPANION PORTAL</text>
+<rect x="738" y="130" width="100" height="125" rx="8" fill="#27466C" stroke="#8C9BD1"/><text x="788" y="159" text-anchor="middle" font-size="15" fill="#F6FAFF" font-weight="700">FRONTEND</text><path d="M753 178H821M753 191H810M753 204H821" stroke="#A5BDD9" stroke-width="3"/>
+<path d="M847 194H883" stroke="#A9A6EE" stroke-width="3" stroke-dasharray="6 6"><animate attributeName="stroke-dashoffset" values="0;-24" dur="3s" repeatCount="indefinite"/></path><path d="M876 188L887 194L876 200" fill="none" stroke="#C9B9FF" stroke-width="2"/>
+<rect x="895" y="129" width="202" height="50" rx="7" fill="#314979" stroke="#AAAFE8"/><text x="996" y="159" text-anchor="middle" fill="#F5F6FF" font-size="16" font-weight="700">BACKEND / API</text>
+<path d="M994 185V207" stroke="#A9A6EE" stroke-width="3" stroke-dasharray="5 4"/>
+<rect x="895" y="213" width="202" height="50" rx="7" fill="#484071" stroke="#C7A9FC"/><text x="996" y="244" text-anchor="middle" fill="#F5F6FF" font-size="16" font-weight="700">AI / RETRIEVAL</text>
+<path d="M752 282H1095" stroke="#ACA6E8" stroke-opacity=".5" stroke-width="1"/>
+</g>
+<rect x="0" y="0" width="744" height="350" fill="url(#shade)"/>
+<text x="48" y="60" fill="#B6A7FF" font-family="Arial,Helvetica,sans-serif" font-size="21" letter-spacing="3.2" font-weight="700">02  /  FULL-STACK + RAG</text>
+<path d="M48 78H630" stroke="#B6A7FF" stroke-opacity=".44"/>
+<text x="44" y="178" fill="#F7FAFF" font-family="Arial,Helvetica,sans-serif" font-size="96" font-weight="900" letter-spacing="-2.7">GT COMPANION</text>
+
+<text x="50" y="229" fill="#B6A7FF" font-family="Arial,Helvetica,sans-serif" font-size="29" font-weight="700">One connected experience.</text>
+<text x="50" y="316" fill="#B9D4E2" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing="2.1">PORTAL  /  API  /  INTELLIGENCE</text>
+<path d="M1040 25H1144" stroke="#B6A7FF" stroke-width="2" stroke-dasharray="16 88">
+<animate attributeName="stroke-dashoffset" values="0;-104" dur="5s" repeatCount="indefinite"/></path>
+</svg>
